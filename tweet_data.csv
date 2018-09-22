@@ -1,0 +1,552 @@
+,tweet_count,tweet_source,tweet_text,tweet_date,tweet_comp_score,tweet_neg_score,tweet_pos_score,tweet_neu_score
+0,0,BBC News (World),"Obituary: Shan Tianfang, China's beloved storyteller https://t.co/4JPfdtBhSy",Sat Sep 22 23:11:47 +0000 2018,0.5106,0.0,0.355,0.645
+1,1,BBC News (World),"RT @BBCSport: Anthony Joshua wins! 🥊
+
+He’s won by knockout in round 7!
+
+AJ retains his heavyweight titles. 
+
+Live reaction https://t.co/e2u…",Sat Sep 22 21:46:36 +0000 2018,0.8395,0.0,0.285,0.715
+2,2,BBC News (World),Intruder entered Irish president's house Áras an Uachtaráin https://t.co/rkf8cWkvq1,Sat Sep 22 20:47:23 +0000 2018,0.0,0.0,0.0,1.0
+3,3,BBC News (World),Asian rivals eye 'flawed' Maldives poll https://t.co/IWfuoJmCv7,Sat Sep 22 20:44:37 +0000 2018,0.0,0.0,0.0,1.0
+4,4,BBC News (World),Kavanaugh accuser 'to testify next week' https://t.co/GxYxnnSYT7,Sat Sep 22 18:50:08 +0000 2018,0.0,0.0,0.0,1.0
+5,5,BBC News (World),Iran blames Gulf rivals for deadly Ahvaz attack https://t.co/QQ6wwoLESv,Sat Sep 22 17:09:52 +0000 2018,-0.7003,0.453,0.0,0.547
+6,6,BBC News (World),"Gunmen have opened fire on a military parade in Iran, killing at least 25 people https://t.co/dFrcAqPH0q
+
+Caution:… https://t.co/iNigneiPyO",Sat Sep 22 16:16:30 +0000 2018,-0.7783,0.312,0.0,0.688
+7,7,BBC News (World),"A Kenyan judge has lifted a ban on a film about a lesbian relationship — for one week only
+
+(Tap to expand)… https://t.co/GmN8Fe8OQG",Sat Sep 22 16:07:51 +0000 2018,-0.5574,0.175,0.0,0.825
+8,8,BBC News (World),Italy acquits Tunisian 'migrant smuggling' fishermen https://t.co/mbXPopdg5l,Sat Sep 22 14:53:45 +0000 2018,-0.4588,0.337,0.12,0.543
+9,9,BBC News (World),Bullet train: Hong Kong express rail link launches amid controversy https://t.co/n9zFfFnTwm,Sat Sep 22 14:43:21 +0000 2018,0.0,0.0,0.0,1.0
+10,10,BBC News (World),China Catholic bishops: Historic deal with Vatican reached https://t.co/uHVyIkl90i,Sat Sep 22 13:39:50 +0000 2018,0.1027,0.0,0.149,0.851
+11,11,BBC News (World),Simon Coveney criticises DUP over Brexit backstop 'veto' https://t.co/6LEfzuaC1m,Sat Sep 22 13:03:11 +0000 2018,-0.3182,0.223,0.0,0.777
+12,12,BBC News (World),In pictures: Beer flows as Germany's Oktoberfest opens in Munich https://t.co/LY4E0sdbO7,Sat Sep 22 11:16:43 +0000 2018,0.0,0.0,0.0,1.0
+13,13,BBC News (World),Man saved from air pocket in sunken ferry https://t.co/T9DdCNaoZv,Sat Sep 22 11:11:28 +0000 2018,0.4215,0.0,0.259,0.741
+14,14,BBC News (World),Paul Gosar: Siblings savage congressman in attack advert https://t.co/N8qtBmlMpx,Sat Sep 22 10:18:15 +0000 2018,-0.7269,0.466,0.0,0.534
+15,15,BBC News (World),Afghan children killed in police station bomb blast https://t.co/GfEPbrcS5d,Sat Sep 22 08:04:22 +0000 2018,-0.8271,0.524,0.0,0.476
+16,16,BBC News (World),Deadly gun attack at Iran military parade https://t.co/porAvGYwmw,Sat Sep 22 06:20:51 +0000 2018,-0.6705,0.478,0.0,0.522
+17,17,BBC News (World),Brett Kavanaugh: Judge accuser 'given more time' for hearing https://t.co/arh73fH7BW,Sat Sep 22 05:35:56 +0000 2018,0.0,0.0,0.0,1.0
+18,18,BBC News (World),'Hezbollah treasurer' Barakat arrested in Brazil border city https://t.co/mZVqvVqC6d,Sat Sep 22 00:58:16 +0000 2018,-0.3818,0.267,0.129,0.603
+19,19,BBC News (World),Rihanna appointed as ambassador by Barbados https://t.co/wOfhydX2gv,Fri Sep 21 23:27:35 +0000 2018,0.0,0.0,0.0,1.0
+20,20,CBS News,Colin Kaepernick is Nike's $6 billion man https://t.co/tFp2Iqza6k https://t.co/TCsn092pzL,Sat Sep 22 23:18:04 +0000 2018,0.0,0.0,0.0,1.0
+21,21,CBS News,California judge rules 5-year-old can take cannabis-based drug to school https://t.co/DUuKTXQl50 https://t.co/3QaDFd54sa,Sat Sep 22 23:16:06 +0000 2018,0.0,0.0,0.0,1.0
+22,22,CBS News,Puerto Rico's grim prognosis: The island may never recover https://t.co/SAst9QgLhR https://t.co/mbK0YWS4nT,Sat Sep 22 23:03:04 +0000 2018,-0.5719,0.27,0.0,0.73
+23,23,CBS News,Republicans thought they were winning the Kavanaugh argument. Then Trump tweeted https://t.co/xwhZ50oNth https://t.co/XDwc62pRWM,Sat Sep 22 22:39:49 +0000 2018,0.2263,0.148,0.201,0.651
+24,24,CBS News,The Texas Senate race between Beto O'Rourke and Ted Cruz keeps taking puzzling turns on social media… https://t.co/dGpEB1derS,Sat Sep 22 22:19:35 +0000 2018,0.0,0.0,0.0,1.0
+25,25,CBS News,WATCH: The National Guard in Massachusetts brought hot plates and help to residents after a series of gas explosion… https://t.co/73Yf8xluG8,Sat Sep 22 22:00:28 +0000 2018,0.4019,0.0,0.13,0.87
+26,26,CBS News,Photo gallery: Who are the richest people in the world? https://t.co/x4qfnpSewM https://t.co/1cFOkOeXV8,Sat Sep 22 21:39:30 +0000 2018,0.5267,0.0,0.236,0.764
+27,27,CBS News,Walmart is warning it will raise prices as Trump's China tariffs kick in https://t.co/avMP5okinO https://t.co/8gED9B0dZk,Sat Sep 22 21:19:41 +0000 2018,-0.34,0.146,0.0,0.854
+28,28,CBS News,How a group of fellow artists helped bring Alejandro Escovedo back to music https://t.co/hJ7yF8Wo7r https://t.co/9VWyi8ShNX,Sat Sep 22 20:59:57 +0000 2018,0.0,0.0,0.0,1.0
+29,29,CBS News,Correction: Christine Blasey Ford has accepted a request to speak to Senate committee about Brett Kavanaugh accusat… https://t.co/zFEIbxW3Yo,Sat Sep 22 20:39:32 +0000 2018,0.2732,0.0,0.116,0.884
+30,30,CBS News,It's a group of grown-up kids still in touch with the magic of their childhoods. Take a look inside the award-winni… https://t.co/o5wzMUoswm,Sat Sep 22 20:19:30 +0000 2018,0.0,0.0,0.0,1.0
+31,31,CBS News,"Vatican and China make breakthrough deal on bishop appointments, an issue that stymied diplomatic relations for dec… https://t.co/5R3mgsAZ4f",Sat Sep 22 19:59:56 +0000 2018,0.0,0.0,0.0,1.0
+32,32,CBS News,"Nearly four years after launch, Japan's Hayabusa2 space probe dropped to within about 180 feet of an asteroid… https://t.co/a3x390Br15",Sat Sep 22 19:39:34 +0000 2018,0.0,0.0,0.0,1.0
+33,33,CBS News,"After a year of suffering and frustration, many Puerto Ricans are packing up what little they have left and fleeing… https://t.co/Ane6FMSDs7",Sat Sep 22 19:20:08 +0000 2018,-0.7351,0.256,0.0,0.744
+34,34,CBS News,JUST IN: Christine Blasey Ford agrees to testify before the Senate Judiciary Committee next week about Brett Kavana… https://t.co/0cRwkwDObd,Sat Sep 22 18:55:56 +0000 2018,0.2023,0.0,0.091,0.909
+35,35,CBS News,"Texas school superintendent resigns after writing on Facebook, ""You can't count on a black quarterback""… https://t.co/qy1xZ4V5qp",Sat Sep 22 18:39:45 +0000 2018,-0.3182,0.141,0.0,0.859
+36,36,CBS News,"Vice President Pence says at the Value Voters Summit in Washington, D.C. that Senate Republicans will show ""the utm… https://t.co/QyRqlUPVmM",Sat Sep 22 18:22:31 +0000 2018,0.34,0.0,0.112,0.888
+37,37,CBS News,An aide to Sen. Chuck Grassley was helping with the GOP's response to the sexual assault allegation against Brett K… https://t.co/LjaOxthLDY,Sat Sep 22 17:59:49 +0000 2018,-0.3818,0.152,0.088,0.76
+38,38,CBS News,It took nearly a year after Hurricane Maria for Puerto Rico's electric company to restore power to all its customer… https://t.co/3w1omAPqtH,Sat Sep 22 17:39:41 +0000 2018,0.296,0.0,0.104,0.896
+39,39,CBS News,Six siblings of GOP Congressman Paul Gosar appear in a campaign ad — telling voters to support his Democratic oppon… https://t.co/4kVQat4LgN,Sat Sep 22 17:19:39 +0000 2018,0.4019,0.0,0.13,0.87
+40,40,CNN,Senate Judiciary Committee adviser working on Brett Kavanaugh's nomination to the Supreme Court resigns… https://t.co/dBkoSEBfm6,Sat Sep 22 23:00:08 +0000 2018,0.5574,0.0,0.205,0.795
+41,41,CNN,Who attacked Iran's military parade? https://t.co/mUcoldL0U9 | Analysis by Nic Robertson https://t.co/cWd2Eywipm,Sat Sep 22 22:30:12 +0000 2018,-0.4588,0.231,0.0,0.769
+42,42,CNN,Japan successfully lands robot rovers on an asteroid's surface https://t.co/5Ap3D9vsuD https://t.co/e5pn48FSSt,Sat Sep 22 22:00:08 +0000 2018,0.4939,0.0,0.242,0.758
+43,43,CNN,"Father, son accused of killing their neighbor over dispute about a box spring https://t.co/cs3sAo7YiO https://t.co/HKxSQIxnbY",Sat Sep 22 21:45:08 +0000 2018,-0.8519,0.458,0.0,0.542
+44,44,CNN,Homeland Security Secretary Kirstjen Nielsen says FEMA administrator Brock Long will reimburse the federal governme… https://t.co/yoqUTY0zPn,Sat Sep 22 21:30:10 +0000 2018,0.34,0.0,0.138,0.862
+45,45,CNN,Finland has produced more Formula One champions per capita than any other country in the world. What is it about th… https://t.co/vC17NrkU00,Sat Sep 22 21:15:05 +0000 2018,0.5667,0.0,0.149,0.851
+46,46,CNN,New Jersey sheriff steps down after uproar over racist remarks https://t.co/fXU3JVltyR https://t.co/vtzMJ7AWed,Sat Sep 22 21:00:05 +0000 2018,-0.6124,0.267,0.0,0.733
+47,47,CNN,Woman charged with attempted murder in New York day care stabbings https://t.co/z7bYmLWzDu https://t.co/5eWyvgGLrd,Sat Sep 22 20:45:04 +0000 2018,-0.5106,0.33,0.162,0.508
+48,48,CNN,"Federal judge says ""meaningful closure"" could be soon in family reunifications https://t.co/fYRoZffAkG https://t.co/PKvxwNhZZn",Sat Sep 22 20:30:17 +0000 2018,0.3182,0.0,0.161,0.839
+49,49,CNN,It really is OK for your children to watch television (and it's OK for you to admit they do it). Here's why you sho… https://t.co/l34bs4c7Qa,Sat Sep 22 20:15:07 +0000 2018,0.8032,0.0,0.272,0.728
+50,50,CNN,What happened between Deputy Attorney General Rod Rosenstein and former FBI Deputy Director Andrew McCabe before sp… https://t.co/f2ueZeaZ13,Sat Sep 22 20:00:13 +0000 2018,0.0,0.0,0.0,1.0
+51,51,CNN,"A software firm. A municipal building. A drugstore distribution center. In a 24-hour span, three ordinary places of… https://t.co/d0B8FmooBh",Sat Sep 22 19:45:06 +0000 2018,0.0,0.0,0.0,1.0
+52,52,CNN,The first day of fall has arrived. Here are 5 things you probably didn't know about the season:… https://t.co/LwZTmeX8Z6,Sat Sep 22 19:30:12 +0000 2018,0.0,0.0,0.0,1.0
+53,53,CNN,Judge orders Commerce Secretary Wilbur Ross to testify in lawsuit challenging 2020 Census question… https://t.co/MdXwWQIo69,Sat Sep 22 19:15:08 +0000 2018,-0.0772,0.115,0.097,0.788
+54,54,CNN,JUST IN: Christine Blasey Ford's lawyers say she will speak to a Senate panel about her sexual assault allegation a… https://t.co/LVxvYupgpc,Sat Sep 22 19:05:05 +0000 2018,-0.5859,0.167,0.0,0.833
+55,55,CNN,3D gun creator wanted on child sex assault charge is arrested in Taiwan https://t.co/y8e1HVOw5U https://t.co/x9mECDmObI,Sat Sep 22 19:00:11 +0000 2018,-0.8519,0.437,0.0,0.563
+56,56,CNN,JUST IN: Comcast outbids 21st Century Fox in the nearly two-year battle for Sky. The European broadcaster's board a… https://t.co/L7uaNl3aa9,Sat Sep 22 18:45:07 +0000 2018,-0.3818,0.12,0.0,0.88
+57,57,CNN,US-China trade talks stall amid tariff standoff https://t.co/m04qfSiktk https://t.co/9f7uR98cGE,Sat Sep 22 18:30:11 +0000 2018,-0.2023,0.184,0.0,0.816
+58,58,CNN,White House furniture finds nouveau life in the Blue Room https://t.co/R7kXXiZ6tf https://t.co/MMRQvPkBv5,Sat Sep 22 18:15:06 +0000 2018,0.0,0.0,0.0,1.0
+59,59,CNN,Sen. Bill Nelson's re-election campaign donated only half of the money it received from former Sen. Al Franken's po… https://t.co/2txu4ZIFub,Sat Sep 22 18:00:23 +0000 2018,0.0,0.0,0.0,1.0
+60,60,Fox News,".@GreggJarrett: ""[Michael Cohen pleaded] guilty to a non-crime...This is what prosecutors wanted. They wanted somet… https://t.co/5xnMpE4bSc",Sat Sep 22 23:19:00 +0000 2018,-0.4215,0.167,0.0,0.833
+61,61,Fox News,'Serial arsonist' gets 74 years for blaze that killed 2 firefighters https://t.co/IJbBaMyJlP,Sat Sep 22 23:14:00 +0000 2018,-0.6705,0.31,0.0,0.69
+62,62,Fox News,"While picking up boxes of donated bananas, the Texas Department of Criminal Justice noticed something was off. Amon… https://t.co/l9uW3912DR",Sat Sep 22 23:03:42 +0000 2018,0.0,0.143,0.143,0.714
+63,63,Fox News,Minnesota state lawmaker ends reelection bid amid daughter's allegations of inappropriate touching https://t.co/HpzEWrylpQ,Sat Sep 22 22:56:00 +0000 2018,0.0,0.0,0.0,1.0
+64,64,Fox News,"Lawmakers are demanding answers on how U.S. federal agencies ""lost"" nearly 1,500 migrant children; William La Jeune… https://t.co/NhZ4cwgzSc",Sat Sep 22 22:48:25 +0000 2018,-0.2263,0.101,0.0,0.899
+65,65,Fox News,New York barber goes viral for giving man in wheelchair a haircut outdoors https://t.co/v5f7171KIM,Sat Sep 22 22:48:00 +0000 2018,0.34,0.0,0.167,0.833
+66,66,Fox News,Texas shelter puppy finds home working with dispatchers at city’s communication center https://t.co/mPtZvvQzdF,Sat Sep 22 22:39:39 +0000 2018,0.0,0.0,0.0,1.0
+67,67,Fox News,"RT @FoxNewsResearch: Election Spotlight
+→ Countdown: 𝟒𝟱 𝐝𝐚𝐲𝐬 to the midterms
+
+Recent First-Term Midterms:
+
+•Clinton (1994): House Dems had…",Sat Sep 22 22:38:03 +0000 2018,0.0,0.0,0.0,1.0
+68,68,Fox News,".@jeffmason1 on Dr. Ford testifying before Senate: ""If Republicans don't treat this cautiously and with respect, th… https://t.co/MSPrI4740t",Sat Sep 22 22:27:07 +0000 2018,0.2124,0.106,0.145,0.749
+69,69,Fox News,Congressional sources 'blind-sided' by Trump decision to back off FISA declassification https://t.co/Omnmbgd1vK,Sat Sep 22 22:24:00 +0000 2018,0.0,0.0,0.0,1.0
+70,70,Fox News,.@Jason_Aldean took a moment during the @iHeartRadio Music Festival in Las Vegas on Friday thank the members of law… https://t.co/8jXL0kI6mG,Sat Sep 22 22:15:30 +0000 2018,0.6908,0.0,0.251,0.749
+71,71,Fox News,Ford ‘accepts’ request to tell her side of alleged Kavanaugh assault; lawyers request Thursday hearing https://t.co/c9wEiOA91V,Sat Sep 22 22:05:54 +0000 2018,-0.5859,0.202,0.0,0.798
+72,72,Fox News,.@MikeBloomberg is considering a run for The White House in 2020; @lauraingle reports. https://t.co/7XRKdUMc2i,Sat Sep 22 22:02:45 +0000 2018,0.0,0.0,0.0,1.0
+73,73,Fox News,"Anita Vogel: ""It was just a little over two years ago when @tedcruz was battling it out for the highest office in t… https://t.co/OIA7kelzb6",Sat Sep 22 21:56:28 +0000 2018,-0.2732,0.087,0.0,0.913
+74,74,Fox News,"Tennessee father accused of starting house fire, setting daughter's wheelchair ablaze 'while she was in it,' offici… https://t.co/VqG5ijhpKE",Sat Sep 22 21:48:00 +0000 2018,-0.5574,0.223,0.0,0.777
+75,75,Fox News,Cosby to fight 'sexually violent predator' tag at sentencing https://t.co/PIWu64enHW,Sat Sep 22 21:42:00 +0000 2018,-0.7964,0.536,0.0,0.464
+76,76,Fox News,"More than a dozen victims accuse California surgeon, girlfriend of rape; called 'Bonnie and Clyde' team https://t.co/BvRe1OBgRt",Sat Sep 22 21:36:00 +0000 2018,-0.8428,0.411,0.0,0.589
+77,77,Fox News,Rod Rosenstein is pushing back against The New York Times report that he suggested wearing a wire to record @POTUS… https://t.co/4EisiNlotN,Sat Sep 22 21:30:31 +0000 2018,0.0,0.0,0.0,1.0
+78,78,Fox News,.@rihanna appointed as ambassador to her native Barbados https://t.co/TkqSJjo05Z,Sat Sep 22 21:26:43 +0000 2018,0.0,0.0,0.0,1.0
+79,79,Fox News,"Under President @MikeBloomberg, we might have had Secretary @Oprah https://t.co/mK85TZnjnx",Sat Sep 22 21:20:08 +0000 2018,0.0,0.0,0.0,1.0
+80,80,The New York Times,Nonfiction: Witnessing the Rise of Fascism in Italy https://t.co/tLS4qEygtG,Sat Sep 22 23:07:18 +0000 2018,0.0,0.0,0.0,1.0
+81,81,The New York Times,RT @shearm: The Trump administration will deny green cards to immigrants who become “public charges” through use of public benefits like fo…,Sat Sep 22 22:56:04 +0000 2018,0.4019,0.091,0.192,0.717
+82,82,The New York Times,Sujay Jaswa and Dr. Eleni Greenwood's courtship was mostly about finding time at the right time. And at their marri… https://t.co/W6U6lrITYb,Sat Sep 22 22:45:07 +0000 2018,0.0,0.0,0.0,1.0
+83,83,The New York Times,Tiger Woods Soars in Round 3 of the Tour Championship https://t.co/LrFAAxXQM1,Sat Sep 22 22:33:33 +0000 2018,0.4404,0.0,0.244,0.756
+84,84,The New York Times,"“Piano &amp; a Microphone 1983,” the first album released by the Prince estate with material from his immense archive,… https://t.co/ADM3aVwC4s",Sat Sep 22 22:20:44 +0000 2018,0.0,0.0,0.0,1.0
+85,85,The New York Times,Breaking News: The Trump administration is aiming to sharply restrict new green cards for those who legally use pub… https://t.co/oJSXigW4PF,Sat Sep 22 22:02:37 +0000 2018,-0.296,0.118,0.064,0.818
+86,86,The New York Times,A campaign sign for New Jersey Rep. Josh Gottheimer and the home of a supporter were defaced with racist and anti-S… https://t.co/8L0Vgf3SlR,Sat Sep 22 21:50:03 +0000 2018,-0.4404,0.166,0.087,0.747
+87,87,The New York Times,"In Opinion
+
+Op-Ed contributor Arlie Hochschild writes of a program that trains rural residents to code, ""The storie… https://t.co/hmB0T5khHr",Sat Sep 22 21:35:03 +0000 2018,0.0,0.0,0.0,1.0
+88,88,The New York Times,"RT @peterbakernyt: Removing a president via the 25th Amendment is harder than many think but talk of it within the administration, however…",Sat Sep 22 21:20:05 +0000 2018,0.0,0.0,0.0,1.0
+89,89,The New York Times,This recipe for German potato salad — warm potatoes lightly dressed with hot bacon and vinegar — shows why the impo… https://t.co/9F1O9moRfJ,Sat Sep 22 21:07:41 +0000 2018,0.2263,0.0,0.091,0.909
+90,90,The New York Times,A special report by The Times unravels everything we know about the Trump-Russia story. https://t.co/IPoYbQslku,Sat Sep 22 21:00:51 +0000 2018,0.4019,0.0,0.172,0.828
+91,91,The New York Times,Judge Kavanaugh's nomination has the makings of a pivot point in American politics — the crest of a wave building s… https://t.co/kRG2DfTIf6,Sat Sep 22 20:55:02 +0000 2018,0.0,0.0,0.0,1.0
+92,92,The New York Times,Have a question about how and why The New York Times reports sensitive topics like the recent Rosenstein story? The… https://t.co/KxEkgBxfLv,Sat Sep 22 20:40:05 +0000 2018,0.3612,0.0,0.116,0.884
+93,93,The New York Times,What does rat laughter sound like? The audiovisual edition of @NYTmag shows how much you can learn about the world… https://t.co/AY9bEVEIEb,Sat Sep 22 20:25:25 +0000 2018,0.6908,0.0,0.231,0.769
+94,94,The New York Times,Sign up to get the Race/Related newsletter by email https://t.co/frg5tK6At9,Sat Sep 22 20:22:15 +0000 2018,0.0,0.0,0.0,1.0
+95,95,The New York Times,RT @NYTArchives: In 1876 The Belgian Society for the Elevation of the Domestic Cat trained postal cats. https://t.co/9wo6ES8uIz #caturday h…,Sat Sep 22 20:11:01 +0000 2018,0.0,0.0,0.0,1.0
+96,96,The New York Times,"""He's just not fit for that office and he needs to be removed,"" said David Gosar, brother of Arizona Republican Rep… https://t.co/BJl8wQUESc",Sat Sep 22 19:55:05 +0000 2018,-0.2755,0.091,0.0,0.909
+97,97,The New York Times,"In Opinion
+
+Op-Ed contributor Rodrigo Zeidan writes, ""People in countries that have experienced bouts of hyperinfla… https://t.co/pSsnvFmlKq",Sat Sep 22 19:40:06 +0000 2018,0.0,0.0,0.0,1.0
+98,98,The New York Times,"What do students gain when teachers share their ethnic or racial identity? In this week's Race/Related newsletter,… https://t.co/yr3nePnnlb",Sat Sep 22 19:25:05 +0000 2018,0.6808,0.0,0.259,0.741
+99,99,The New York Times,RT @SherylNYT: Full story here. Blasey has accepted Grassley offer to testify next week -- BUT wants additional time to negotiate details.…,Sat Sep 22 19:19:30 +0000 2018,0.1406,0.0,0.069,0.931
+100,100,BBC News (World),Viewpoint: What India's first newspaper says about democracy https://t.co/I9wdqMqMI4,Fri Sep 21 23:10:09 +0000 2018,0.0,0.0,0.0,1.0
+101,101,BBC News (World),Canadian politician says a family can eat on $75 a week https://t.co/GDAWrro8kA,Fri Sep 21 22:32:48 +0000 2018,0.0,0.0,0.0,1.0
+102,102,BBC News (World),Canadian funfair rape plaintiff 'victim blamed' https://t.co/KxdQpDkn5s,Fri Sep 21 20:58:37 +0000 2018,-0.872,0.712,0.0,0.288
+103,103,BBC News (World),RT @bbcweather: #StormBronagh has raced away from the UK and is battering Norway where recent coastal gusts have reached 96mph! CF,Fri Sep 21 20:57:35 +0000 2018,0.1759,0.0,0.078,0.922
+104,104,BBC News (World),RT @BBCNewshour: Kenya's courts overturn ban on lesbian romance @rafikimovie. Dr. @EzekielMutua of Kenya's Film Classification Board explai…,Fri Sep 21 20:52:50 +0000 2018,0.0,0.155,0.155,0.69
+105,105,BBC News (World),"Yes, these lips are r-eel 😮 
+
+(Tap to expand) https://t.co/zoipbop0uR https://t.co/PGhl5rBzPW",Fri Sep 21 20:21:13 +0000 2018,0.4019,0.0,0.172,0.828
+106,106,BBC News (World),Rod Rosenstein denies voicing plot to remove Trump https://t.co/42cEh2gxX2,Fri Sep 21 19:11:02 +0000 2018,-0.4215,0.259,0.0,0.741
+107,107,BBC News (World),Man killed in electric scooter crash in Washington DC https://t.co/KogK8aljCx,Fri Sep 21 19:02:26 +0000 2018,-0.802,0.474,0.0,0.526
+108,108,BBC News (World),RT @BBCAfrica: Anxious wait for relatives in Tanzania ferry disaster https://t.co/NMQw2ROWEM https://t.co/m9KzJO4UIG,Fri Sep 21 18:23:29 +0000 2018,-0.7269,0.379,0.0,0.621
+109,109,BBC News (World),Kenya briefly lifts ban on lesbian film Rafiki ahead of Oscars https://t.co/oZE2EpCHK8,Fri Sep 21 17:25:41 +0000 2018,-0.5574,0.247,0.0,0.753
+110,110,BBC News (World),Three infants among five people stabbed at New York nursery https://t.co/JXY7JOiYLJ,Fri Sep 21 16:31:16 +0000 2018,-0.4404,0.225,0.0,0.775
+111,111,BBC News (World),"RT @danroan: ""A devastating blow"". @usantidoping chief Travis Tygart tells us WADA have let down clean athletes by reinstating Russia. ICYM…",Fri Sep 21 16:01:34 +0000 2018,-0.3818,0.165,0.104,0.731
+112,112,BBC News (World),First soldiers identified from remains returned by North Korea https://t.co/EhuQObXX4j,Fri Sep 21 15:42:35 +0000 2018,0.0,0.0,0.0,1.0
+113,113,BBC News (World),CCTV footage shows hillside disintegrate as villages in Cebu province of Philippines engulfed by landslide… https://t.co/Rg2Z7lxjtL,Fri Sep 21 15:36:09 +0000 2018,0.0,0.0,0.0,1.0
+114,114,BBC News (World),RT @BBCBarbaraPlett: .@SecPompeo tells the BBC that the #UN Security Council meeting next week will be on nonproliferation with a heavy foc…,Fri Sep 21 15:30:46 +0000 2018,0.34,0.0,0.107,0.893
+115,115,BBC News (World),"Facebook stops sending staff to help political campaigns 
+
+https://t.co/W8x63coI3A",Fri Sep 21 15:08:04 +0000 2018,0.2732,0.142,0.239,0.619
+116,116,BBC News (World),India bishop accused of rape arrested in Kerala https://t.co/Sw9gX0FmLw,Fri Sep 21 14:47:32 +0000 2018,-0.875,0.625,0.0,0.375
+117,117,BBC News (World),Pablo Escobar museum in Colombia shut down https://t.co/QRmhiqkdFB,Fri Sep 21 14:23:31 +0000 2018,0.0,0.0,0.0,1.0
+118,118,BBC News (World),Peggy Knobloch: Man admits dumping missing German girl's body https://t.co/mLWOhYrkCR,Fri Sep 21 14:16:13 +0000 2018,-0.3182,0.328,0.161,0.511
+119,119,BBC News (World),James Ricketson: Jailed Australian filmmaker granted Cambodia royal pardon https://t.co/PYEfrZfKh4,Fri Sep 21 13:43:40 +0000 2018,0.0258,0.221,0.297,0.483
+120,120,CBS News,RT @CBSThisMorning: A mother broke down in tears this morning when she was reunited with her 11-year-old son at Washington Dulles Internati…,Sat Sep 22 17:17:57 +0000 2018,-0.5719,0.198,0.0,0.802
+121,121,CBS News,Floodwaters are still threatening North Carolina more than a week after Florence made landfall… https://t.co/FYjqJX7Hzk,Sat Sep 22 16:39:49 +0000 2018,-0.5267,0.207,0.0,0.793
+122,122,CBS News,Mother tearfully reunites with 11-year-old son who was detained by ICE for more than six months and separated from… https://t.co/Sf58k6bfUB,Sat Sep 22 16:19:36 +0000 2018,-0.4019,0.124,0.0,0.876
+123,123,CBS News,Investigation finds proper procedure wasn't followed when a University of Maryland football player collapsed after… https://t.co/Udz5NnFO3A,Sat Sep 22 16:00:01 +0000 2018,-0.2732,0.13,0.0,0.87
+124,124,CBS News,"GOODBYE, BANDIT: Private memorial service held for Burt Reynolds https://t.co/NHWT49hBnV https://t.co/kI8IG4gJfy",Sat Sep 22 15:39:48 +0000 2018,0.0,0.0,0.0,1.0
+125,125,CBS News,FEMA Administrator Brock Long used government vehicles without proper authorization — but won't lose his job over i… https://t.co/CIyEIiLOZb,Sat Sep 22 15:23:37 +0000 2018,0.438,0.0,0.145,0.855
+126,126,CBS News,"He helped set off the Boston Tea Party, wrote one of the first major abolition texts and signed the Declaration of… https://t.co/e2PWzyGiZY",Sat Sep 22 14:59:41 +0000 2018,0.4019,0.0,0.114,0.886
+127,127,CBS News,"2 adults, 2 children found dead in burning Nevada house in apparent murder-suicide https://t.co/FPASCQUJ36 https://t.co/uYjkpW3s1l",Sat Sep 22 14:39:49 +0000 2018,-0.6486,0.264,0.0,0.736
+128,128,CBS News,"As the high-stakes standoff with Kavanaugh accuser Chrstine Blasey Ford stretches into the weekend, it remains uncl… https://t.co/AnDgqLGmVb",Sat Sep 22 14:19:44 +0000 2018,0.0,0.0,0.0,1.0
+129,129,CBS News,"Gunmen kill at least 24 in attack on Iran's annual military parade, the country's bloodiest assault in years… https://t.co/AiMbrVDjNF",Sat Sep 22 13:59:48 +0000 2018,-0.9118,0.42,0.0,0.58
+130,130,CBS News,"Fear. Guilt. Shame.
+
+Sexual assault survivors explain the reasons they wait to come forward: https://t.co/E4sN4Uvvbo https://t.co/xPGg5Gk43u",Sat Sep 22 13:39:37 +0000 2018,-0.9042,0.504,0.0,0.496
+131,131,CBS News,#Oops: Twitter finds bug that may have sent direct messages to the wrong people https://t.co/9Y4Cj8gM8y https://t.co/H2YjbHcCXz,Sat Sep 22 13:19:39 +0000 2018,-0.4767,0.171,0.0,0.829
+132,132,CBS News,"When Hurricane Maria devastated Puerto Rico, CBS News’ @DavidBegnaud was there. Now, a year later, he returns for a… https://t.co/k3WDyMAs1H",Sat Sep 22 13:04:48 +0000 2018,-0.6124,0.182,0.0,0.818
+133,133,CBS News,Tiffany Haddish tells Stephen Colbert she doesn’t need a man https://t.co/TEQ1OrgYZ5 https://t.co/bd7aKbPfdT,Sat Sep 22 13:03:04 +0000 2018,0.0,0.0,0.0,1.0
+134,134,CBS News,"Cody Wilson, 3D-printed gun company owner accused of sex with girl, is arrested in Taiwan https://t.co/dC3VOYTVdj https://t.co/kcLK8953de",Sat Sep 22 12:48:03 +0000 2018,-0.7717,0.355,0.0,0.645
+135,135,CBS News,Survivors explain not reporting sexual assaults https://t.co/bhtSFLIIbt https://t.co/u2NSWNu5K5,Sat Sep 22 12:45:11 +0000 2018,0.431,0.0,0.289,0.711
+136,136,CBS News,New law lets consumers freeze credit for free https://t.co/bN6BZCVT4o https://t.co/MaIQ5YJFtL,Sat Sep 22 12:33:04 +0000 2018,0.7269,0.0,0.504,0.496
+137,137,CBS News,Dallas police chief explains why she hasn't fired cop who shot neighbor dead https://t.co/zJptM5AxZL https://t.co/uEEpDQnkW4,Sat Sep 22 12:18:03 +0000 2018,-0.3348,0.213,0.145,0.643
+138,138,CBS News,"PayPal bans Alex Jones, InfoWars website from processing payments https://t.co/vEtTBVpnsB https://t.co/j5BTkLz88G",Sat Sep 22 12:07:03 +0000 2018,0.0,0.0,0.0,1.0
+139,139,CBS News,"Kavanaugh testimony could be ""more dramatic"" than his accuser's, Jodi Kantor says https://t.co/lq5zwBTUU5 https://t.co/7VJrp9O8c5",Sat Sep 22 11:48:03 +0000 2018,0.0,0.0,0.0,1.0
+140,140,CNN,More than 40 dead as Florence-weary Carolinas face more flooding and rising rivers https://t.co/AYNQIDCJJG https://t.co/qupWlK7Cwk,Sat Sep 22 17:45:07 +0000 2018,-0.6771,0.246,0.0,0.754
+141,141,CNN,German nationalism threatens Oktoberfest https://t.co/o12BRyVMNm (via @CNNOpinion) https://t.co/EUjGu45sh5,Sat Sep 22 17:30:06 +0000 2018,-0.3818,0.271,0.0,0.729
+142,142,CNN,"Britain's Foreign Secretary Jeremy Hunt has urged European Union leaders to get the ""tone"" right in their negotiati… https://t.co/V2KVVaOI1X",Sat Sep 22 17:15:05 +0000 2018,0.0,0.0,0.0,1.0
+143,143,CNN,"Here's how Michael Cohen, President Trump's former personal attorney, might be helpful to prosecutors… https://t.co/b1AFzoyLaK",Sat Sep 22 17:00:08 +0000 2018,0.4215,0.0,0.167,0.833
+144,144,CNN,Brett Kavanaugh is the least popular Supreme Court nominee in 30 years https://t.co/CfznAY949k https://t.co/t5r8cP5uTc,Sat Sep 22 16:45:08 +0000 2018,0.3111,0.13,0.201,0.669
+145,145,CNN,Republicans worry sexual assault allegation against Supreme Court nominee Brett Kavanaugh could drive suburban wome… https://t.co/WqQtuHNyIR,Sat Sep 22 16:30:05 +0000 2018,-0.4767,0.288,0.155,0.558
+146,146,CNN,Imprisoned opposition leader in Rwanda to go on trial as another walks free — for now https://t.co/HoWreAmLtU https://t.co/calQ7IU6eH,Sat Sep 22 16:15:07 +0000 2018,0.0772,0.141,0.155,0.704
+147,147,CNN,"This 75-year-old spends his days napping with kittens. And he's raised more than $30,000 doing it.… https://t.co/7F3n4ZQQUU",Sat Sep 22 16:00:07 +0000 2018,0.0,0.0,0.0,1.0
+148,148,CNN,An ad airing on Missouri radio attempts to rally voters against incumbent Democratic Sen. Claire McCaskill by warni… https://t.co/BeGTGjajcf,Sat Sep 22 15:45:07 +0000 2018,0.0,0.0,0.0,1.0
+149,149,CNN,The Vatican and China have signed a provisional agreement to allow jointly-approved Catholic bishops in China for t… https://t.co/gPGXw9jzZ0,Sat Sep 22 15:30:07 +0000 2018,0.6249,0.0,0.242,0.758
+150,150,CNN,3 senators were in both Anita Hill's hearing and Brett Kavanaugh's https://t.co/8ij0yKkriW https://t.co/HfEqzXs7LE,Sat Sep 22 15:15:10 +0000 2018,0.0,0.0,0.0,1.0
+151,151,CNN,The captain of an overloaded ferry that capsized on Lake Victoria has been arrested in Tanzania as the death toll c… https://t.co/zHwirEr2IW,Sat Sep 22 15:00:04 +0000 2018,-0.7906,0.259,0.0,0.741
+152,152,CNN,The recent mass shooting at a Rite-Aid distribution center is a wake-up call that not all shooters follow the patte… https://t.co/dP8N7Wu9Tg,Sat Sep 22 14:44:32 +0000 2018,0.0,0.0,0.0,1.0
+153,153,CNN,Amazon wants Alexa everywhere https://t.co/qtSsDnGylP https://t.co/rAJPdImDy8,Sat Sep 22 14:32:05 +0000 2018,0.1779,0.0,0.254,0.746
+154,154,CNN,"A Sphinx believed be more than 2,000-years-old has been uncovered in Egypt https://t.co/hE0dQSRwcO via @CNNTravel https://t.co/AMikFLKbeP",Sat Sep 22 14:01:02 +0000 2018,0.0,0.0,0.0,1.0
+155,155,CNN,This is how roasted almonds are turned into marzipan. https://t.co/APeQogsUSb https://t.co/dWv2jvkQoO,Sat Sep 22 13:46:00 +0000 2018,0.0,0.0,0.0,1.0
+156,156,CNN,"In her first solo project as a member of the royal family, Meghan, Duchess of Sussex, is supporting a new charity c… https://t.co/K3N9l7CAhx",Sat Sep 22 13:31:00 +0000 2018,0.6908,0.0,0.231,0.769
+157,157,CNN,Six siblings of Republican Rep. Paul Gosar delivered a stark message in a new television advertisement: Don't vote… https://t.co/iTY6CcgT4E,Sat Sep 22 13:16:06 +0000 2018,0.0,0.0,0.0,1.0
+158,158,CNN,"This 94-year-old World War II vet hands out chocolate bars to strangers and people love it.
+
+He's been melting hear… https://t.co/NSoZqXuzCd",Sat Sep 22 13:01:01 +0000 2018,0.0772,0.144,0.155,0.701
+159,159,CNN,"Coal ash is likely entering the Cape Fear River in Wilmington, North Carolina, environmentalists say… https://t.co/kGkl0nIZyv",Sat Sep 22 12:46:04 +0000 2018,-0.4939,0.176,0.0,0.824
+160,160,Fox News,September is Brain Aneurysm Awareness Month. Todd Crawford of the Lisa Colagrossi Foundation joined @EricShawnTV to… https://t.co/0cR8eDpyJt,Sat Sep 22 21:13:58 +0000 2018,0.0,0.0,0.0,1.0
+161,161,Fox News,Justin Theroux breaks silence on 'painless' Jennifer Aniston breakup for the first time https://t.co/zxOQwizLlN,Sat Sep 22 21:11:00 +0000 2018,0.0,0.0,0.0,1.0
+162,162,Fox News,"Three brothers saved for years to open a motel in North Carolina. But when Hurricane Florence ravaged the area, the… https://t.co/t7O4BNaL2R",Sat Sep 22 21:03:51 +0000 2018,0.2263,0.0,0.091,0.909
+163,163,Fox News,California woman hiking in Michigan falls to death while taking selfie: officials https://t.co/d3Yzop49Sb,Sat Sep 22 20:59:00 +0000 2018,-0.5994,0.245,0.0,0.755
+164,164,Fox News,".@bevhallberg on 2018 midterms: ""[Republicans] need to out there and make it very clear that the reason why people… https://t.co/gH7jqLCBrN",Sat Sep 22 20:50:10 +0000 2018,0.4391,0.0,0.132,0.868
+165,165,Fox News,Farmers in North Carolina are suffering major losses following Hurricane Florence; @BryanLlenas reports.… https://t.co/X3jYnnU2dB,Sat Sep 22 20:46:35 +0000 2018,-0.7003,0.326,0.0,0.674
+166,166,Fox News,.@DanaPerino: What does it feel like to be married for 20 years? I'll tell you... https://t.co/j9GpkSdCtl,Sat Sep 22 20:45:00 +0000 2018,0.3612,0.0,0.143,0.857
+167,167,Fox News,"Stumping in Missouri, Trump says he'll clear out ‘lingering stench’ at FBI, DOJ https://t.co/4LO7G2FYqq",Sat Sep 22 20:37:50 +0000 2018,0.3818,0.0,0.167,0.833
+168,168,Fox News,Ford ‘accepts’ request to testify about alleged Kavanaugh assault; lawyers request Thursday hearing; @ellisonbarber… https://t.co/mr2ebD46Fu,Sat Sep 22 20:26:44 +0000 2018,-0.5859,0.213,0.0,0.787
+169,169,Fox News,'The Stakes Are Incredibly High':  @benshapiro Goes In-Depth on His Fox News Election Special https://t.co/FgI3MSP23B,Sat Sep 22 20:24:00 +0000 2018,0.4019,0.0,0.162,0.838
+170,170,Fox News,California police escort sister of slain deputy to middle school https://t.co/BkHkd8tNNL,Sat Sep 22 20:20:48 +0000 2018,0.0,0.0,0.0,1.0
+171,171,Fox News,".@Garrett_FoxNews: ""This afternoon attorneys for Christine Blasey Ford once again informed the Judiciary Committee… https://t.co/BgtcNWhN0H",Sat Sep 22 20:16:04 +0000 2018,0.0,0.0,0.0,1.0
+172,172,Fox News,".@SebGorka: Rosenstein Report Shows 'Unequivocally Corrupt' DOJ, FBI Under Obama https://t.co/DMAry1spHV",Sat Sep 22 20:03:58 +0000 2018,0.0,0.0,0.0,1.0
+173,173,Fox News,"Joel Rubin on Dr. Ford testifying: ""Sexual assault is not a red state issue, it's not a blue state issue, it's an A… https://t.co/gwNA2rveWl",Sat Sep 22 19:56:40 +0000 2018,-0.5859,0.153,0.0,0.847
+174,174,Fox News,".@JMfreespeech on Ford testifying: ""I think we are still talking about both sides of this fight trying to shape the… https://t.co/xnEUa8jFwI",Sat Sep 22 19:50:16 +0000 2018,-0.4588,0.13,0.0,0.87
+175,175,Fox News,"RT @FoxNewsResearch: US-China Trade Deficit:
+
+🇺🇸🇨🇳The US is on pace to have a record-high $382 billion trade deficit in goods with China in…",Sat Sep 22 19:43:01 +0000 2018,-0.6597,0.213,0.0,0.787
+176,176,Fox News,"'AGT' star Michael Ketterer arrested, charged for domestic violence after competing in show finale https://t.co/jF7sdCV2CP",Sat Sep 22 19:36:00 +0000 2018,-0.8402,0.429,0.0,0.571
+177,177,Fox News,.@SteveHiltonx: At the UN President Trump should call for a total economic boycott of China https://t.co/D8PBxyBRuG,Sat Sep 22 19:28:41 +0000 2018,-0.3182,0.141,0.0,0.859
+178,178,Fox News,.@VP Mike Pence touted the economy Saturday while speaking at the Values Voter Summit. https://t.co/MQRx9AANai,Sat Sep 22 19:25:09 +0000 2018,0.3612,0.071,0.16,0.769
+179,179,Fox News,Florida couple rescues 'starving' puppies found in bucket https://t.co/gGTdvpjGxT,Sat Sep 22 19:13:00 +0000 2018,0.3182,0.0,0.223,0.777
+180,180,The New York Times,"Breaking News: Christine Blasey Ford, who accused Judge Brett Kavanaugh of sexual assault, said she was willing to… https://t.co/zZFObRukFb",Sat Sep 22 19:04:36 +0000 2018,-0.7184,0.261,0.0,0.739
+181,181,The New York Times,RT @_StephenCastle: Delaying Brexit decisions to the 11th hour was a good strategy for Theresa May. Until it backfired. https://t.co/92ZTGt…,Sat Sep 22 18:54:32 +0000 2018,0.4404,0.0,0.139,0.861
+182,182,The New York Times,What does a democratic socialist believe in? Many voters don't know. Take this quiz to find out whether your belief… https://t.co/xi4NnDiM7G,Sat Sep 22 18:45:06 +0000 2018,0.0,0.0,0.0,1.0
+183,183,The New York Times,"Comcast defeated Disney/Fox in a bidding war for the British broadcaster Sky with a $39 billion offer, gaining an i… https://t.co/7m4Bawuymz",Sat Sep 22 18:38:08 +0000 2018,-0.6369,0.271,0.109,0.62
+184,184,The New York Times,"A man has been found alive 2 days after a ferry in Tanzania overturned, killing more than 200 people, and a day aft… https://t.co/aJuA6wDmKV",Sat Sep 22 18:30:12 +0000 2018,-0.4215,0.176,0.104,0.72
+185,185,The New York Times,The tale of the rent-stabilized tenant with a house in the Berkshires is often used to point out the shortcomings o… https://t.co/7gtMDKdatQ,Sat Sep 22 18:15:07 +0000 2018,0.0,0.0,0.0,1.0
+186,186,The New York Times,China has called off trade talks with White House officials. The U.S. is set to begin taxing $200 billion in import… https://t.co/UqhCVXHzXi,Sat Sep 22 18:00:04 +0000 2018,0.0,0.0,0.0,1.0
+187,187,The New York Times,"RT @NYTmag: Have the print magazine? Don’t have the magazine? We’ve got a way for both. 
+Choose your own (audio) adventure across the world…",Sat Sep 22 17:47:43 +0000 2018,0.3939,0.0,0.108,0.892
+188,188,The New York Times,"Casino magnate Sheldon Adelson and his wife, Miriam, donated $55 million to Republican electoral efforts in the las… https://t.co/RdgcheYIZt",Sat Sep 22 17:31:05 +0000 2018,0.0,0.0,0.0,1.0
+189,189,The New York Times,"At a rally for Republican Senate candidate Josh Hawley, President Trump used his speech to continue his attacks on… https://t.co/xcniBoGDMN",Sat Sep 22 17:25:03 +0000 2018,-0.4404,0.139,0.0,0.861
+190,190,The New York Times,A German family-owned bookstore found a recipe for success by stocking its shelves with regional delicacies like ah… https://t.co/xoPJ7hiRBK,Sat Sep 22 17:10:03 +0000 2018,0.7351,0.0,0.292,0.708
+191,191,The New York Times,"RT @dealbook: In Britain and other European markets, Uber Eats is streets behind Deliveroo and other local services like Just Eat and Deliv…",Sat Sep 22 16:55:04 +0000 2018,0.3612,0.0,0.102,0.898
+192,192,The New York Times,"President Trump's upending of foreign policy has Europeans asking hard questions about the U.S.'s global role, and… https://t.co/891ITS2l1m",Sat Sep 22 16:40:05 +0000 2018,-0.1027,0.076,0.0,0.924
+193,193,The New York Times,David Boies was one of America’s most admired lawyers. Then he represented Harvey Weinstein and Theranos. Which for… https://t.co/arrNJNY58V,Sat Sep 22 16:25:01 +0000 2018,0.5563,0.0,0.166,0.834
+194,194,The New York Times,6 times as many people in Nigeria died from clashes between herders and farmers in the first half of this year as f… https://t.co/kRcRYECa5M,Sat Sep 22 16:10:04 +0000 2018,-0.5574,0.141,0.0,0.859
+195,195,The New York Times,"RT @NYTmag: The deafening roar of Iceland's Dettifoss waterfall. 
+The crunch of lava flowing from the erupting Kilauea volcano in Hawaii.
+T…",Sat Sep 22 15:56:50 +0000 2018,-0.296,0.095,0.0,0.905
+196,196,The New York Times,"Pope Francis will recognize 7 bishops appointed by the Chinese government, ending a decades-old power struggle betw… https://t.co/zWxmvVKVoj",Sat Sep 22 15:40:07 +0000 2018,-0.3182,0.133,0.0,0.867
+197,197,The New York Times,Construction workers are addicted to opioids at nearly twice the rate for all working adults. And many addictions b… https://t.co/CQVD4c1bsw,Sat Sep 22 15:25:05 +0000 2018,0.0,0.0,0.0,1.0
+198,198,The New York Times,"""It's very difficult for us to get a true sensing of the severity of the impact of the disaster,"" one emergency off… https://t.co/VZsQbjzptU",Sat Sep 22 15:10:47 +0000 2018,-0.3804,0.198,0.103,0.699
+199,199,The New York Times,Rod Rosenstein once proposed secretly taping President Trump and removing him via the 25th Amendment. Read more:… https://t.co/1FmYUfdIVG,Sat Sep 22 14:56:36 +0000 2018,0.0,0.0,0.0,1.0
+200,200,BBC News (World),RT @BBCNorthAmerica: Brett Kavanaugh accuser sets out terms for testimony https://t.co/gHivLypM7g,Fri Sep 21 13:41:42 +0000 2018,0.0,0.0,0.0,1.0
+201,201,BBC News (World),European press views May 'ambush' with sympathy https://t.co/9RoHKvdNFX,Fri Sep 21 12:44:06 +0000 2018,0.3612,0.0,0.263,0.737
+202,202,BBC News (World),Chinese nanny Mo Huanjing executed for arson killings https://t.co/jKz38RWaH9,Fri Sep 21 12:41:07 +0000 2018,-0.6705,0.36,0.0,0.64
+203,203,BBC News (World),Texas Republicans apologise to Indians for 'offensive' Hindu ad https://t.co/GLTcwhj8v3,Fri Sep 21 10:40:54 +0000 2018,0.3818,0.0,0.224,0.776
+204,204,BBC News (World),Chinese anger at US sanctions for Russian weapons purchases https://t.co/UHLUTk6rxg,Fri Sep 21 09:17:06 +0000 2018,-0.765,0.452,0.0,0.548
+205,205,BBC News (World),"RT @BBCBreaking: At least 86 bodies are found after a Tanzanian ferry overturns in Lake Victoria, officials say https://t.co/Pcy3ObgGin",Fri Sep 21 07:53:08 +0000 2018,-0.3818,0.133,0.0,0.867
+206,206,BBC News (World),"Lake Victoria, Tanzania: Dozens drown in ferry capsize https://t.co/9ktCUaPBA7",Fri Sep 21 07:38:59 +0000 2018,-0.5719,0.316,0.0,0.684
+207,207,BBC News (World),RT @BBCSteveR: In today’s Russian press there’s little contrition for the doping scandal. One paper calls RUSADA’s reinstatement a “resound…,Fri Sep 21 07:32:34 +0000 2018,-0.4404,0.139,0.0,0.861
+208,208,BBC News (World),Australian strawberries: Why would someone hide a needle in fruit? https://t.co/SojF4lluNU,Fri Sep 21 06:32:36 +0000 2018,-0.1779,0.159,0.0,0.841
+209,209,BBC News (World),RT @BBCMaryam: Italy's competition watchdog has opened a inquiry into Ryanair's decision to charge people to take certain heavier hand lugg…,Fri Sep 21 06:23:46 +0000 2018,0.6486,0.0,0.227,0.773
+210,210,BBC News (World),Vietnam President Tran Dai Quang dies aged 61 https://t.co/Lw6f2NJePK,Fri Sep 21 05:21:34 +0000 2018,0.0,0.0,0.0,1.0
+211,211,BBC News (World),Philippines landslide victims 'sent texts from underneath rubble' https://t.co/w38Z0TNthg,Fri Sep 21 04:08:04 +0000 2018,-0.3182,0.223,0.0,0.777
+212,212,BBC News (World),"RT @BBCMarikoOi: It was @alangilpin2 of @rugbyworldcup, not 🇯🇵 gvnt, who requested. While it’s considerate, do we really care? I have frien…",Fri Sep 21 03:44:35 +0000 2018,0.7501,0.0,0.252,0.748
+213,213,BBC News (World),RT @VFritzNews: DING! Your @amazon microwave is ready. The tech firm is integrating voice controls into virtually anything you can think of…,Fri Sep 21 03:39:27 +0000 2018,0.4199,0.0,0.117,0.883
+214,214,BBC News (World),Syracuse New York shooting 'leaves seven injured' https://t.co/J1pZx9fG2I,Fri Sep 21 03:37:14 +0000 2018,-0.4019,0.278,0.0,0.722
+215,215,BBC News (World),Jair Bolsonaro: Why Brazilian women are saying #NotHim https://t.co/sRNZzXosck,Fri Sep 21 03:00:19 +0000 2018,0.0,0.0,0.0,1.0
+216,216,BBC News (World),Africa's week in pictures: 14-20 September 2018 https://t.co/azAJ8y9ORe,Fri Sep 21 02:51:22 +0000 2018,0.0,0.0,0.0,1.0
+217,217,BBC News (World),US imposes sanctions on China for buying Russian weapons https://t.co/r0A3m4P8AL,Fri Sep 21 01:51:59 +0000 2018,-0.5106,0.35,0.0,0.65
+218,218,BBC News (World),Australia emu video investigated for 'horrific cruelty' https://t.co/htb9rcdTQr,Fri Sep 21 01:34:48 +0000 2018,-0.8519,0.58,0.0,0.42
+219,219,BBC News (World),Syria war: Seized foreign IS fighters 'must be taken home' https://t.co/TcvYqZsnMj,Fri Sep 21 00:45:32 +0000 2018,-0.6249,0.362,0.0,0.638
+220,220,CBS News,Gunmen kill at least 24 in attack on annual military parade in Iran https://t.co/FrTWGlFeJW https://t.co/Mzd8nIUJLM,Sat Sep 22 11:40:09 +0000 2018,-0.8316,0.375,0.0,0.625
+221,221,CBS News,Nanny cam catches repairman appearing to sniff underwear in girls' bedroom https://t.co/KQQloRvX9p https://t.co/CCmb4XLPua,Sat Sep 22 11:33:04 +0000 2018,0.0,0.0,0.0,1.0
+222,222,CBS News,"Maryland shooter had a history of mental illness, police say https://t.co/wgjN27c49G https://t.co/NOwKVQpCgw",Sat Sep 22 11:18:03 +0000 2018,-0.4019,0.213,0.0,0.787
+223,223,CBS News,"Some flea and tick treatments increase risk of seizures in pets, FDA warns https://t.co/HMQOj8iiSW https://t.co/7qK6CBUQwX",Sat Sep 22 11:03:04 +0000 2018,-0.0516,0.197,0.129,0.674
+224,224,CBS News,"RT @CBSThisMorning: Take a look at what we're working on this #SaturdayMorning with @AnthonyMasonCBS, @DanaJacobson and @CBSMMiller. https:…",Sat Sep 22 10:54:32 +0000 2018,0.0,0.0,0.0,1.0
+225,225,CBS News,Florida student accused of trying to steal airliner dragged off plane https://t.co/AH7yMQP04Q https://t.co/1FrqT3mLNK,Sat Sep 22 10:48:03 +0000 2018,-0.6808,0.398,0.0,0.602
+226,226,CBS News,"Cargill ground beef recall after E. coli outbreak kills 1, sickens 17 https://t.co/ZwGX5XWEJe https://t.co/2TxlWbw5Ec",Sat Sep 22 10:33:04 +0000 2018,-0.7579,0.351,0.0,0.649
+227,227,CBS News,"Arrest made after ""unprovoked"" fatal stabbing of D.C. jogger https://t.co/LwjVMKpIhA https://t.co/McFW0AKpkr",Sat Sep 22 10:18:04 +0000 2018,-0.7096,0.396,0.0,0.604
+228,228,CBS News,Rapper Suge Knight has been sentenced to 28 years in prison for manslaughter https://t.co/UoXkL0UHbl https://t.co/bsLA0pTObI,Sat Sep 22 10:03:05 +0000 2018,-0.5267,0.253,0.0,0.747
+229,229,CBS News,Walmart warning it'll raise prices as Trump's China tariffs kick in https://t.co/lTngwOYgsh https://t.co/aCdT1ZxlwL,Sat Sep 22 09:48:03 +0000 2018,-0.34,0.167,0.0,0.833
+230,230,CBS News,"""It was pure joy"": Baby girl born after undergoing experimental surgery in the womb https://t.co/VrrRXpPnxJ https://t.co/CwFBxWZEgh",Sat Sep 22 09:33:03 +0000 2018,0.0,0.0,0.0,1.0
+231,231,CBS News,Dam breached by Florence floodwaters at power plant in North Carolina https://t.co/in1CNJk44F https://t.co/QTt6VAW7yM,Sat Sep 22 09:18:04 +0000 2018,0.0,0.0,0.0,1.0
+232,232,CBS News,Rod Rosenstein denies report saying he discussed invoking 25th Amendment to remove Trump https://t.co/eh710Ja0kq https://t.co/D4pTujJrtL,Sat Sep 22 09:03:02 +0000 2018,-0.4215,0.167,0.0,0.833
+233,233,CBS News,Former Trump attorney Michael Cohen cooperating with Robert Mueller https://t.co/zcdk2QuxOx https://t.co/2rzBuYMFzB,Sat Sep 22 08:48:03 +0000 2018,0.0,0.0,0.0,1.0
+234,234,CBS News,Former top Cuomo aide sentenced to 6 years in prison for corruption https://t.co/LrjIzsDjSN https://t.co/ZL5QakguNP,Sat Sep 22 08:33:03 +0000 2018,-0.3818,0.272,0.111,0.617
+235,235,CBS News,KISS announces final tour ever https://t.co/sXvGF1IXxr https://t.co/wLqxaDvDW4,Sat Sep 22 08:18:04 +0000 2018,0.5473,0.0,0.371,0.629
+236,236,CBS News,"Researchers say they're closing in on HMB Endeavour, Captain Cook's lost ship https://t.co/oVeFvN8jG9 https://t.co/L2DdFHPRhO",Sat Sep 22 08:03:05 +0000 2018,-0.3182,0.15,0.0,0.85
+237,237,CBS News,"Marines say they ""had to act"" to save senior citizens from D.C. fire https://t.co/61EzqJgYYc https://t.co/ud4MxkyGT7",Sat Sep 22 07:48:04 +0000 2018,0.2023,0.129,0.172,0.699
+238,238,CBS News,Hurricane Florence death toll rises to 42 as South Carolina expects more record flooding https://t.co/DINAwhpDtJ https://t.co/lVD74FHMYP,Sat Sep 22 07:33:03 +0000 2018,-0.5994,0.206,0.0,0.794
+239,239,CBS News,"Daycare worker stabs 3 infants, two adults in New York City https://t.co/fZvqV3Pv1L https://t.co/L0AOSyeZ1w",Sat Sep 22 07:18:03 +0000 2018,-0.4404,0.209,0.0,0.791
+240,240,CNN,"Meet Yusaku Maezawa, the Japanese billionaire who will be the first passenger on a SpaceX trip around the moon. He'… https://t.co/qCFFMce67A",Sat Sep 22 12:31:00 +0000 2018,0.0,0.0,0.0,1.0
+241,241,CNN,"From Jeff Bezos to Warren Buffett, these billionaires are snapping up newspapers despite the fact that the industry… https://t.co/5u6HHZLL8x",Sat Sep 22 12:16:00 +0000 2018,0.0,0.0,0.0,1.0
+242,242,CNN,"Last month, a CNN investigation found remnants of a US-made bomb at the scene of an airstrike in Yemen that killed… https://t.co/70c0x3eF0p",Sat Sep 22 12:01:12 +0000 2018,-0.4939,0.144,0.0,0.856
+243,243,CNN,Former President Ronald Reagan's daughter Patti Davis wrote about her own sexual assault experience to defend Chris… https://t.co/CWCd6WsMx2,Sat Sep 22 11:46:03 +0000 2018,-0.5859,0.183,0.0,0.817
+244,244,CNN,"Apple's new phones — the iPhone XS and XS Max — are the smartest, fastest, best iPhones we've seen to date. But do… https://t.co/xYErs8vJ9n",Sat Sep 22 11:31:00 +0000 2018,0.6249,0.0,0.203,0.797
+245,245,CNN,Dallas Mavericks owner Mark Cuban will donate $10 million to women's advocacy groups after an independent investiga… https://t.co/OlfPQx4y0o,Sat Sep 22 11:01:05 +0000 2018,0.0,0.0,0.0,1.0
+246,246,CNN,"A garage in California is outfitting vintage cars with state-of-the-art tech, swapping old electronics with Tesla b… https://t.co/jTfas0nwID",Sat Sep 22 10:31:00 +0000 2018,0.0,0.0,0.0,1.0
+247,247,CNN,"Hillary Clinton says she's worried about what an unchecked Trump could do to the government if there isn't a ""very… https://t.co/H7eAEec3us",Sat Sep 22 10:01:02 +0000 2018,-0.296,0.104,0.0,0.896
+248,248,CNN,"They are the most glorious vessels on the seven seas, but how is a luxury superyacht made? https://t.co/VSMIUyOo3Q https://t.co/rFwnzPUYo7",Sat Sep 22 09:31:00 +0000 2018,0.4111,0.0,0.139,0.861
+249,249,CNN,"To remove Helen Keller from the social studies curriculum in Texas ""also means to eliminate the single touchstone f… https://t.co/d7EQIMppvX",Sat Sep 22 09:01:05 +0000 2018,0.0,0.0,0.0,1.0
+250,250,CNN,"At least 10 people were killed and 21 others, including a child and a woman, were wounded in an attack on a militar… https://t.co/0EX2cNAQGJ",Sat Sep 22 09:00:58 +0000 2018,-0.8225,0.286,0.0,0.714
+251,251,CNN,"No, it's not Halloween, but the spider webs draping everything from street signs to trees in this Greek town are a… https://t.co/V7jYaLZL06",Sat Sep 22 08:31:00 +0000 2018,-0.1531,0.071,0.0,0.929
+252,252,CNN,"Michael Jordan, who grew up in Wilmington, North Carolina, close to where Hurricane Florence came ashore, has donat… https://t.co/o7WSpXuWF6",Sat Sep 22 08:01:07 +0000 2018,0.0,0.0,0.0,1.0
+253,253,CNN,Rihanna has been appointed an ambassador of Barbados https://t.co/7LCAWPpqFM https://t.co/Hg5qh2Wa9G,Sat Sep 22 07:31:05 +0000 2018,0.0,0.0,0.0,1.0
+254,254,CNN,"GoPro has had some major struggles in recent years. It's hoping a new camera, the Hero7 Black, can help it recover.… https://t.co/VrPJ6bJByB",Sat Sep 22 07:01:00 +0000 2018,0.4588,0.096,0.212,0.692
+255,255,CNN,This library loans out ties and handbags so those with limited resources can go to job interviews… https://t.co/Hu9O2EIzF1,Sat Sep 22 06:46:05 +0000 2018,-0.2878,0.113,0.0,0.887
+256,256,CNN,A satellite successfully tested its new space-cleaning technology as part of a plan to clean up the thousands of pi… https://t.co/ZZjkAoW8aM,Sat Sep 22 06:31:00 +0000 2018,0.7096,0.0,0.258,0.742
+257,257,CNN,"President Trump's star on the Hollywood Walk of Fame was defaced yet again this week, this time covered by wooden b… https://t.co/zeWUV876EM",Sat Sep 22 06:16:02 +0000 2018,0.4404,0.0,0.121,0.879
+258,258,CNN,"The Trump administration is planning to shift more than $260 million from cancer research, HIV/AIDS and other progr… https://t.co/hYnomgIY7o",Sat Sep 22 06:01:03 +0000 2018,-0.6597,0.196,0.0,0.804
+259,259,CNN,Hong Kong-based airline Cathay Pacific spelled its own name wrong on the side of one of its new planes… https://t.co/bnHYd7WXZk,Sat Sep 22 05:46:06 +0000 2018,-0.4767,0.14,0.0,0.86
+260,260,Fox News,MTA officials say New York City subway riders are partly to blame for delays https://t.co/d5txuvtrtB,Sat Sep 22 19:03:00 +0000 2018,-0.2782,0.132,0.0,0.868
+261,261,Fox News,".@VP calls Kavanaugh 'man of integrity,' predicts confirmation https://t.co/3Cg0q7Z8lb",Sat Sep 22 18:55:47 +0000 2018,0.0,0.0,0.0,1.0
+262,262,Fox News,"BREAKING: Ford ‘accepts’ request to testify about alleged Kavanaugh assault, lawyers request Thursday hearing  https://t.co/Dcqj7D3MAI",Sat Sep 22 18:45:53 +0000 2018,-0.5859,0.213,0.0,0.787
+263,263,Fox News,Floodwaters threaten North Carolina one week after Hurricane Florence made landfall; @jonathanserrie reports.… https://t.co/vQpm8qHllZ,Sat Sep 22 18:41:52 +0000 2018,-0.3818,0.167,0.0,0.833
+264,264,Fox News,"Alex Little on Rosenstein report: ""There's so much behind the scenes movement trying to position [@POTUS] to prepar… https://t.co/S8EzTA0kHe",Sat Sep 22 18:35:10 +0000 2018,0.0,0.0,0.0,1.0
+265,265,Fox News,SUNDAY: @BenShapiro breaks down the critical issues in the midterm elections on the premiere of “The Ben Shapiro El… https://t.co/5u1NuBeoUO,Sat Sep 22 18:28:00 +0000 2018,-0.3182,0.108,0.0,0.892
+266,266,Fox News,Pompeo says officials not backing Trump's mission 'ought to find something else to do' https://t.co/9NgvBDxWiJ,Sat Sep 22 18:26:37 +0000 2018,-0.0191,0.071,0.0,0.929
+267,267,Fox News,OPINION: Iran sentenced us to death for being Christian. We pray America will welcome more grateful refugees like us https://t.co/QXd8YX9coF,Sat Sep 22 18:17:08 +0000 2018,0.7474,0.165,0.374,0.461
+268,268,Fox News,Oktoberfest Begins in Munich https://t.co/Nni5MrJeop,Sat Sep 22 18:05:00 +0000 2018,0.0,0.0,0.0,1.0
+269,269,Fox News,Autumnal Equinox Marks Start of Fall https://t.co/W4jSCQgjYf,Sat Sep 22 18:00:28 +0000 2018,0.0,0.0,0.0,1.0
+270,270,Fox News,California police escort sister of slain deputy to middle school https://t.co/2dJqVMYrWl,Sat Sep 22 17:51:15 +0000 2018,0.0,0.0,0.0,1.0
+271,271,Fox News,Texas shelter puppy finds home working with dispatchers at city’s communication center https://t.co/pdaIJs8fNF,Sat Sep 22 17:28:27 +0000 2018,0.0,0.0,0.0,1.0
+272,272,Fox News,.@RudyGiuliani: “The Iranian regime right now is the most dangerous group in the world.” https://t.co/Ir8fFLCq99,Sat Sep 22 17:25:51 +0000 2018,-0.5256,0.195,0.0,0.805
+273,273,Fox News,.@dbongino: “Rod Rosenstein at this point has got to go. He has to be fired.” https://t.co/ZeRG40oJJV,Sat Sep 22 17:20:00 +0000 2018,0.0,0.0,0.0,1.0
+274,274,Fox News,".@dbongino: “There are things you joke about and things you don’t, now you think this would be common sense when yo… https://t.co/RG93WeF8iF",Sat Sep 22 17:14:47 +0000 2018,0.296,0.0,0.095,0.905
+275,275,Fox News,Florida Chick-fil-A throws surprise 100th birthday party for loyal customer https://t.co/c2PhY5ExAR,Sat Sep 22 17:12:25 +0000 2018,0.7845,0.0,0.497,0.503
+276,276,Fox News,Rep. Paul Gosar's own siblings endorse Democratic opponent in scathing ad https://t.co/EmcrSzC2oC,Sat Sep 22 17:07:11 +0000 2018,0.3182,0.0,0.173,0.827
+277,277,Fox News,Socialism rises in Democratic Party as primary season of upsets comes to close https://t.co/I5Hlhuq5mM,Sat Sep 22 17:02:20 +0000 2018,0.0516,0.145,0.157,0.698
+278,278,Fox News,"Women rally in support of Kavanaugh: 'We know the man, we know his heart' https://t.co/C1nHsQYCS8",Sat Sep 22 16:51:25 +0000 2018,0.4019,0.0,0.162,0.838
+279,279,Fox News,Minnesota AG Candidate: 'Terrible Double-Standard' Surrounds Accusations Against Keith Ellison https://t.co/spsLScJKKL,Sat Sep 22 16:38:36 +0000 2018,-0.6597,0.375,0.0,0.625
+280,280,The New York Times,12 more women say they were victims of a California couple charged with drugging and sexually assaulting women. One… https://t.co/3svZyU8O6E,Sat Sep 22 14:45:27 +0000 2018,-0.7506,0.316,0.0,0.684
+281,281,The New York Times,RT @sahiltner: “This is a profession for a lot of people now. And you can’t fill out a W-9 with your hacker handle.” An inside look at @def…,Sat Sep 22 14:35:02 +0000 2018,0.0,0.0,0.0,1.0
+282,282,The New York Times,"This marathon runner was so fast that two of his three pacesetters had to drop out after the first 10 kilometers, w… https://t.co/FlbqZW6SRs",Sat Sep 22 14:30:08 +0000 2018,-0.2732,0.087,0.0,0.913
+283,283,The New York Times,"Here is a simple, excellent one-pot recipe, full of rich flavor, with a sauce that you won't want to waste… https://t.co/bfIZtfCObB",Sat Sep 22 14:15:03 +0000 2018,0.7951,0.05,0.298,0.652
+284,284,The New York Times,At least 24 soldiers and civilian onlookers were killed when gunmen opened fire on a military parade in a province… https://t.co/zLD8LRclOf,Sat Sep 22 14:04:45 +0000 2018,-0.7845,0.289,0.0,0.711
+285,285,The New York Times,The administrator of FEMA came under scrutiny for using government vehicles to commute between Washington and Hicko… https://t.co/gfSuSbHn5N,Sat Sep 22 14:00:06 +0000 2018,0.0,0.0,0.0,1.0
+286,286,The New York Times,"When you come home and you just want to flop, you want a wine that is inexpensive and undemanding. Here are 20 grea… https://t.co/pNbDXoI66t",Sat Sep 22 13:47:02 +0000 2018,-0.2023,0.096,0.104,0.8
+287,287,The New York Times,"RT @clairecm: Americans agree that there should be more women in leadership, that everyone's lives would improve and that women are as qual…",Sat Sep 22 13:33:02 +0000 2018,0.6597,0.0,0.205,0.795
+288,288,The New York Times,Comcast and Fox (soon to be Disney) are settling their fight for control of Rupert Murdoch's Sky broadcasting servi… https://t.co/tPDiXY7vp0,Sat Sep 22 13:15:05 +0000 2018,-0.3818,0.12,0.0,0.88
+289,289,The New York Times,A detailed look at Americans' social lives online https://t.co/tPlt3FiR3D https://t.co/Uuja0wFLB4,Sat Sep 22 13:02:13 +0000 2018,0.0,0.0,0.0,1.0
+290,290,The New York Times,It’s easy to lose the larger narrative of the Trump-Russia story. Here's a detailed timeline. https://t.co/SOh2kaF8XW,Sat Sep 22 12:42:05 +0000 2018,0.0516,0.145,0.156,0.699
+291,291,The New York Times,"DC Universe, a new streaming platform dedicated entirely to DC Comics, offers movies, original series and more. We… https://t.co/bQAgWUeYHV",Sat Sep 22 12:22:01 +0000 2018,0.6486,0.0,0.249,0.751
+292,292,The New York Times,Tracking the House races to watch in the 2018 midterm elections https://t.co/cSUFVVBt2k,Sat Sep 22 12:02:04 +0000 2018,0.0,0.0,0.0,1.0
+293,293,The New York Times,China and Vatican Reach Agreement Over Selection of Bishops https://t.co/mmRGDroRCf,Sat Sep 22 12:00:58 +0000 2018,0.5106,0.0,0.35,0.65
+294,294,The New York Times,"Can't wait for the scent of pumpkin spice, maple syrup and roasted root vegetables to waft through your home? Here'… https://t.co/C9vfSIx0we",Sat Sep 22 11:42:04 +0000 2018,0.0,0.0,0.0,1.0
+295,295,The New York Times,Checking a bag? Get ready to pay even more the next time you fly. https://t.co/e8sNBTNAMd,Sat Sep 22 11:22:02 +0000 2018,0.2732,0.088,0.157,0.755
+296,296,The New York Times,Google C.E.O. Denies Allegations of Political Bias in Search Results https://t.co/hudC2lDUcD,Sat Sep 22 11:05:08 +0000 2018,-0.4939,0.318,0.0,0.682
+297,297,The New York Times,Japan's Hayabusa2 spacecraft dropped 2 small rovers on the Ryugu asteroid. See some of the latest images it has sen… https://t.co/VJWVbbeVn9,Sat Sep 22 11:02:05 +0000 2018,0.0,0.0,0.0,1.0
+298,298,The New York Times,Justin Theroux Is on the Prowl https://t.co/z6ViBeDBRQ,Sat Sep 22 10:53:52 +0000 2018,0.0,0.0,0.0,1.0
+299,299,The New York Times,"RT @nytpolitics: At a campaign rally in Las Vegas, President Trump said that he and Republicans “will protect patients with pre-existing co…",Sat Sep 22 10:32:05 +0000 2018,0.3818,0.0,0.115,0.885
+300,300,BBC News (World),Mission implausible: Russians mock improbable spy duo https://t.co/iL8LzYW6cU,Fri Sep 21 00:24:47 +0000 2018,-0.4215,0.286,0.0,0.714
+301,301,BBC News (World),Why is IVF so popular in Denmark? https://t.co/7ajREhHPPj,Thu Sep 20 23:53:21 +0000 2018,0.5598,0.0,0.341,0.659
+302,302,BBC News (World),Michigan professor embroiled in Israel boycott row https://t.co/l71FbugFkG,Thu Sep 20 23:10:14 +0000 2018,-0.3182,0.247,0.0,0.753
+303,303,BBC News (World),Suge Knight trial: Rap mogul pleads no contest over hit-and-run death https://t.co/XPB31ktCMe,Thu Sep 20 22:56:42 +0000 2018,-0.7269,0.379,0.0,0.621
+304,304,BBC News (World),Brett Kavanaugh accuser offers to testify to Senate https://t.co/E1DuP3nQ9U,Thu Sep 20 22:47:16 +0000 2018,0.0,0.0,0.0,1.0
+305,305,BBC News (World),Mexico's president-elect grounded on commercial plane for hours https://t.co/wdRajdwCJz,Thu Sep 20 22:35:18 +0000 2018,0.0,0.0,0.0,1.0
+306,306,BBC News (World),India killing: 'My father ordered my husband's murder' https://t.co/mPhG5hfUaJ,Thu Sep 20 22:03:04 +0000 2018,-0.8779,0.565,0.0,0.435
+307,307,BBC News (World),😍 Meet the cutest and newest recruits for Chile's national police force 🐶🐶🐶🐶🐶🐶🐶🐶🐶 https://t.co/lLwVO7mB7a,Thu Sep 20 22:01:17 +0000 2018,0.7783,0.0,0.312,0.688
+308,308,BBC News (World),What just happened in Salzburg? The EU view https://t.co/Ne7RvIHuHm,Thu Sep 20 20:07:30 +0000 2018,0.0,0.0,0.0,1.0
+309,309,BBC News (World),"Maryland shooting: Woman kills three, turns gun on herself https://t.co/rxxT02mR7a",Thu Sep 20 19:44:07 +0000 2018,-0.7096,0.424,0.0,0.576
+310,310,BBC News (World),Hundreds feared missing after ferry capsizes on Lake Victoria in north Tanzania https://t.co/C09vZ1nizw,Thu Sep 20 19:21:47 +0000 2018,-0.6597,0.329,0.0,0.671
+311,311,BBC News (World),Washington DC man arrested in fatal stabbing of runner https://t.co/GNb4ji1dj4,Thu Sep 20 18:15:08 +0000 2018,-0.765,0.452,0.0,0.548
+312,312,BBC News (World),Bobi Wine back in Uganda 'to fight' https://t.co/WS8R0g7Ef5,Thu Sep 20 18:03:23 +0000 2018,-0.3818,0.271,0.0,0.729
+313,313,BBC News (World),Tanzania: Hundreds feared missing as ferry capsizes https://t.co/CWOYt3k4bH,Thu Sep 20 17:38:34 +0000 2018,-0.6597,0.474,0.0,0.526
+314,314,BBC News (World),RT @BBCBreaking: Multiple deaths and injuries after a shooting at a pharmacy distribution centre in Maryland - US police https://t.co/38Oud…,Thu Sep 20 16:13:53 +0000 2018,0.0,0.0,0.0,1.0
+315,315,BBC News (World),RT @BBCNews: Wow! 😲 https://t.co/IXmNyUxJkg,Thu Sep 20 15:51:16 +0000 2018,0.7712,0.0,0.626,0.374
+316,316,BBC News (World),Europe’s press fear a hard #Brexit https://t.co/kFrWOYeDiE,Thu Sep 20 15:43:23 +0000 2018,-0.5574,0.535,0.0,0.465
+317,317,BBC News (World),RT @BBCNews: Ouch 🤬 https://t.co/aaoQ7tmPJP,Thu Sep 20 15:29:46 +0000 2018,0.0,0.0,0.0,1.0
+318,318,BBC News (World),"RT @BBCOne: The official trailer is here! 
+
+""I’m the Doctor, when people need help, I never refuse."" #DoctorWho https://t.co/1ciqgSEQBo",Thu Sep 20 15:08:17 +0000 2018,0.4574,0.0,0.15,0.85
+319,319,BBC News (World),Dutch rail crash: Four children killed in electric cart https://t.co/FlJu8Vz4J5,Thu Sep 20 15:05:49 +0000 2018,-0.802,0.474,0.0,0.526
+320,320,CBS News,"DNA and genetic genealogy used to ID suspect in ""NorCal Rapist"" case https://t.co/iCOtYQoFc6 https://t.co/upNDfeN551",Sat Sep 22 07:03:03 +0000 2018,-0.7964,0.372,0.0,0.628
+321,321,CBS News,Fugitive priest who fled New Mexico in 1992 extradited to face child sex abuse charges https://t.co/mG68zL0KQf https://t.co/OoXdeDYhH9,Sat Sep 22 06:48:04 +0000 2018,-0.743,0.296,0.0,0.704
+322,322,CBS News,"Cody Wilson, 3D-printed gun company owner accused of sex with girl, is arrested in Taiwan https://t.co/SaereqGiNo https://t.co/liZH5AzyT7",Sat Sep 22 06:33:03 +0000 2018,-0.7717,0.355,0.0,0.645
+323,323,CBS News,New law lets consumers freeze credit for free https://t.co/Safz6tReWO https://t.co/HwcD0AVggI,Sat Sep 22 06:18:04 +0000 2018,0.7269,0.0,0.504,0.496
+324,324,CBS News,Republicans thought they were winning Kavanaugh argument. Then Trump tweeted. https://t.co/F9eOVV6xr7 https://t.co/GPkDs6mXNL,Sat Sep 22 06:03:04 +0000 2018,0.2263,0.157,0.214,0.629
+325,325,CBS News,Walmart warning it'll raise prices as Trump's China tariffs kick in https://t.co/szwVp0Jq5w https://t.co/MEvDVCn3hB,Sat Sep 22 05:48:03 +0000 2018,-0.34,0.167,0.0,0.833
+326,326,CBS News,"Kavanaugh testimony could be ""more dramatic"" than his accuser's, Jodi Kantor says https://t.co/hcTddl1kdx https://t.co/SCKE0nrekd",Sat Sep 22 05:33:03 +0000 2018,0.0,0.0,0.0,1.0
+327,327,CBS News,Nanny cam catches repairman appearing to sniff underwear in girls' bedroom https://t.co/qHWTdTpe9U https://t.co/AVpsL9f4NQ,Sat Sep 22 05:18:04 +0000 2018,0.0,0.0,0.0,1.0
+328,328,CBS News,"Maryland shooter had a history of mental illness, police say https://t.co/gvep03LVcU https://t.co/u3bFwS3g2p",Sat Sep 22 05:03:05 +0000 2018,-0.4019,0.213,0.0,0.787
+329,329,CBS News,Florida student accused of trying to steal airliner dragged off plane https://t.co/bcENcXhSCZ https://t.co/0cWAhtbXgW,Sat Sep 22 04:48:03 +0000 2018,-0.6808,0.398,0.0,0.602
+330,330,CBS News,Senate Judiciary Committee chairman Chuck Grassley extended the deadline for Christine Blasey Ford to decide if she… https://t.co/PM5uzYF7ZX,Sat Sep 22 04:43:27 +0000 2018,0.0,0.0,0.0,1.0
+331,331,CBS News,Dam breached by Florence floodwaters at power plant in North Carolina https://t.co/nY6IVBGVTG https://t.co/tlF1nJmgd0,Sat Sep 22 04:33:04 +0000 2018,0.0,0.0,0.0,1.0
+332,332,CBS News,Congressman jokes that Ruth Bader Ginsburg was molested by Lincoln https://t.co/tdkGKIhwHQ https://t.co/Hi18HGp0Ol,Sat Sep 22 04:18:03 +0000 2018,-0.2263,0.195,0.134,0.671
+333,333,CBS News,"Puppies spread antibiotic-resistant infections to 118 people, CDC reports https://t.co/7Mq4aDg3hz https://t.co/TFTY49LEJr",Sat Sep 22 04:03:05 +0000 2018,0.0,0.0,0.0,1.0
+334,334,CBS News,"Beastie Boys sound off on Eminem album cover for ""Kamikaze"" https://t.co/5DONzs7tIN https://t.co/hWfHXwBZ1O",Sat Sep 22 03:48:03 +0000 2018,0.0,0.0,0.0,1.0
+335,335,CBS News,"2 adults, 2 children found dead in burning Nevada house in apparent murder-suicide, police say… https://t.co/gSrSBOjaYx",Sat Sep 22 03:40:09 +0000 2018,-0.6486,0.249,0.0,0.751
+336,336,CBS News,"""Outraged"" China and Russia warn U.S. of ""consequences"" for sanctions https://t.co/qHylBucjwf https://t.co/gryVN2mCRy",Sat Sep 22 03:33:03 +0000 2018,-0.1027,0.113,0.0,0.887
+337,337,CBS News,Dallas police chief explains why she hasn't fired cop who shot neighbor dead https://t.co/7x3EeXtCC4 https://t.co/oOtMWM1y84,Sat Sep 22 03:18:02 +0000 2018,-0.3348,0.213,0.145,0.643
+338,338,CBS News,"Daycare worker stabs 3 infants, two adults in New York City https://t.co/fZvqV3Pv1L https://t.co/CMjOfK1Q3o",Sat Sep 22 03:03:05 +0000 2018,-0.4404,0.209,0.0,0.791
+339,339,CBS News,"FEMA chief used vehicles without authorizition, but won't be fired, DHS says https://t.co/GckCDM5xOo https://t.co/I8kcc09v2h",Sat Sep 22 03:02:06 +0000 2018,0.5975,0.0,0.23,0.77
+340,340,CNN,"The oldest known animal in the geological record has been identified, in a discovery that scientists are calling ""t… https://t.co/ah30GrdQgx",Sat Sep 22 05:31:00 +0000 2018,0.0,0.0,0.0,1.0
+341,341,CNN,"Over 3 million people died from alcohol consumption in 2016, equating to 1 in 20 deaths globally, according to a ne… https://t.co/n9QoR5RbmG",Sat Sep 22 05:16:03 +0000 2018,-0.5574,0.167,0.0,0.833
+342,342,CNN,Coca-Cola is considering a move into the growing market for cannabis-infused drinks https://t.co/k83952k3b7 https://t.co/ZOp913Akqw,Sat Sep 22 05:01:02 +0000 2018,0.1779,0.0,0.124,0.876
+343,343,CNN,Republicans in Texas apologize for a campaign ad likening a Hindu deity to the GOP elephant https://t.co/QAhxYmmcjJ https://t.co/qzVfso5bmU,Sat Sep 22 04:46:07 +0000 2018,0.1027,0.0,0.085,0.915
+344,344,CNN,Revisiting the luxury and glamour of Concorde https://t.co/CziUz3JjU9 via @CNNStyle https://t.co/2rRRXM4DwN,Sat Sep 22 04:38:41 +0000 2018,0.5267,0.0,0.254,0.746
+345,345,CNN,"These golden retriever puppies are the newest members of Chile's police canine training unit, and they stole the sh… https://t.co/DpgOMsXMRi",Sat Sep 22 04:31:00 +0000 2018,0.0,0.0,0.0,1.0
+346,346,CNN,"Underwater walls could stop glaciers from melting, scientists say https://t.co/r1Hx62IzEm https://t.co/Ur0omf4C8T",Sat Sep 22 04:27:24 +0000 2018,-0.296,0.18,0.0,0.82
+347,347,CNN,"Sen. Mitch McConnell: “You’ve watched the fight. You’ve watched the tactics. ... In the very near future, Judge Kav… https://t.co/hNEQhzaWo5",Sat Sep 22 04:16:24 +0000 2018,-0.3818,0.12,0.0,0.88
+348,348,CNN,Senate Judiciary Chairman Chuck Grassley has given an extension to Christine Blasey Ford to decide whether she will… https://t.co/FHJpITW9GA,Sat Sep 22 04:03:04 +0000 2018,0.0,0.0,0.0,1.0
+349,349,CNN,Korean boy band BTS will make history next week as the first ever K-Pop group to speak at the United Nations… https://t.co/o9LvogxfQb,Sat Sep 22 04:01:06 +0000 2018,0.4215,0.0,0.118,0.882
+350,350,CNN,"These grungy, taped-up designer sneakers sell for $530. Critics say they glorify poverty https://t.co/1U2CF7C14w https://t.co/GqiJvJTcM4",Sat Sep 22 03:46:03 +0000 2018,-0.2023,0.259,0.175,0.566
+351,351,CNN,Flying insects are contaminating new environments by eating microplastics in polluted waters and carrying them thro… https://t.co/SLWO9owkNZ,Sat Sep 22 03:31:06 +0000 2018,-0.4588,0.158,0.0,0.842
+352,352,CNN,"""Special counsel Robert Mueller and his investigation have been beset by smears. Now another one is afoot: the clai… https://t.co/JWx9V4VSL2",Sat Sep 22 03:23:03 +0000 2018,0.4019,0.0,0.124,0.876
+353,353,CNN,HUD Secretary Ben Carson appears to have tied the sexual assault allegation against Supreme Court nominee Brett Kav… https://t.co/ebNGykLnRe,Sat Sep 22 03:16:20 +0000 2018,-0.0516,0.156,0.148,0.697
+354,354,CNN,Scientists believe they have discovered the first examples of air pollution traveling through the bloodstream of pr… https://t.co/x5cTjvz04e,Sat Sep 22 03:16:02 +0000 2018,0.0,0.0,0.0,1.0
+355,355,CNN,The week Brett Kavanaugh went from sure thing to not | Analysis by @CillizzaCNN https://t.co/zbYdVcS7ld https://t.co/A94wIVltra,Sat Sep 22 03:09:01 +0000 2018,0.3182,0.0,0.141,0.859
+356,356,CNN,"To attract Indian-American voters, a Republican party group in suburban Houston released a campaign ad with an imag… https://t.co/kJUpPcHOKN",Sat Sep 22 03:07:37 +0000 2018,0.6369,0.0,0.257,0.743
+357,357,CNN,"A Sphinx believed be more than 2,000-years-old has been uncovered in Egypt https://t.co/NYlMVOvQde via @CNNTravel https://t.co/qxQE99wBcr",Sat Sep 22 03:01:07 +0000 2018,0.0,0.0,0.0,1.0
+358,358,CNN,"RT @CuomoPrimeTime: Get the real story of Puerto Rico’s recovery after Hurricane Maria.  
+
+A @CNN Special Report: Storm of Controversy: Wha…",Sat Sep 22 02:59:54 +0000 2018,0.4019,0.0,0.124,0.876
+359,359,CNN,"RT @CuomoPrimeTime: President of the Judicial Watch @TomFitton tells @ChrisCuomo that politically, practically speaking, Prof. Ford has up…",Sat Sep 22 02:51:40 +0000 2018,0.0,0.0,0.0,1.0
+360,360,Fox News,"Sunday on ""Life, Liberty, &amp; Levin"" @marklevinshow talks about how the Democrats' actions have affected the SCOTUS c… https://t.co/KKC1PAcAQm",Sat Sep 22 16:33:00 +0000 2018,0.4215,0.073,0.155,0.773
+361,361,Fox News,"Police beef up security for UN gathering, Trump visit https://t.co/9aDIcZw6OW",Sat Sep 22 16:23:00 +0000 2018,0.34,0.0,0.211,0.789
+362,362,Fox News,US airstrike kills 18 al-Shabab after US attacked in Somalia https://t.co/K4NMngsPyS,Sat Sep 22 16:12:59 +0000 2018,-0.7579,0.419,0.0,0.581
+363,363,Fox News,Alaska man given 'pass' after pleading guilty in sexual assault case https://t.co/MoeVau4brD,Sat Sep 22 16:01:42 +0000 2018,-0.765,0.398,0.0,0.602
+364,364,Fox News,"RT @FoxBusiness: GM recalls trucks, SUVs for brake problem  https://t.co/PPW13BbkxG",Sat Sep 22 15:51:02 +0000 2018,-0.4019,0.231,0.0,0.769
+365,365,Fox News,"RT @FoxBusiness: .@SecretaryZinke: ""We've unwound maybe 22 regulations for every one we put in."" https://t.co/RQVdBOxKfR",Sat Sep 22 15:50:57 +0000 2018,0.0,0.0,0.0,1.0
+366,366,Fox News,Kentucky woman arrested for allegedly leaving kids in car with loaded guns to get tan: report https://t.co/OcuCNaq4a8,Sat Sep 22 15:46:29 +0000 2018,-0.4767,0.162,0.0,0.838
+367,367,Fox News,.@VP Mike Pence delivers remarks at the Values Voter Summit. https://t.co/ndzhhnvtHV,Sat Sep 22 15:36:27 +0000 2018,0.4019,0.0,0.213,0.787
+368,368,Fox News,Even Some College Students Are Now Giving Trump Credit for Economy https://t.co/0oFXSApeu3,Sat Sep 22 15:25:00 +0000 2018,0.6124,0.0,0.333,0.667
+369,369,Fox News,USS Pueblo spy ship crew tell Trump to bring vessel home from North Korea (via: @LucasFoxNews) https://t.co/oy1cWBd0yK,Sat Sep 22 15:19:48 +0000 2018,0.0,0.0,0.0,1.0
+370,370,Fox News,.@SenJohnHoeven: “Clearly we need to allow Dr. Ford to give her account and we have to evaluate that.” https://t.co/FISk7hTxU4,Sat Sep 22 15:14:00 +0000 2018,0.2263,0.0,0.095,0.905
+371,371,Fox News,JUST IN: Democrats float idea of impeaching Kavanaugh even if he is confirmed to Supreme Court https://t.co/lqGIdOjEBB,Sat Sep 22 15:09:25 +0000 2018,0.5574,0.0,0.184,0.816
+372,372,Fox News,SUNDAY: Don't miss @SecPompeo on @FoxNewsSunday. Check your local listings and tune in at 2p and 7p ET on Fox News… https://t.co/JdlEwmgXXh,Sat Sep 22 15:04:00 +0000 2018,0.1139,0.0,0.064,0.936
+373,373,Fox News,.@RepGoodlatte: “If these allegations are true… Mr. Rosenstein would be well-advised to step aside and the presiden… https://t.co/7Zsszw7E32,Sat Sep 22 14:56:08 +0000 2018,0.0,0.0,0.0,1.0
+374,374,Fox News,Fifth-Grade Students Show Incredible Respect in Protecting American Flag https://t.co/m4nJcFed6e,Sat Sep 22 14:43:04 +0000 2018,0.4767,0.0,0.256,0.744
+375,375,Fox News,Rihanna appointed as ambassador to her native Barbados https://t.co/rfHzU5T3CV,Sat Sep 22 14:28:00 +0000 2018,0.0,0.0,0.0,1.0
+376,376,Fox News,"Dan Geltrude: “You may not like President Trump, you may not like the things he says… but I think the market and a… https://t.co/6o3ZA5QccR",Sat Sep 22 14:18:09 +0000 2018,-0.2755,0.129,0.0,0.871
+377,377,Fox News,.@edhenry is live with the ‘Fox News Update’ on Facebook Watch: https://t.co/hNrB8xzepH https://t.co/9y6XC8UnvU,Sat Sep 22 14:10:15 +0000 2018,0.0,0.0,0.0,1.0
+378,378,Fox News,Two sleeping Indiana teens shot dead by father who kills himself https://t.co/HaOPRP525H,Sat Sep 22 14:07:26 +0000 2018,-0.8316,0.438,0.0,0.562
+379,379,Fox News,San Jose Earthquakes name girl battling cancer honorary captain https://t.co/p1eJGlembI,Sat Sep 22 13:56:31 +0000 2018,-0.6249,0.409,0.151,0.44
+380,380,The New York Times,At Least 10 Killed in Attack on Military Parade in Iran https://t.co/1eDF44riQt,Sat Sep 22 10:18:06 +0000 2018,-0.8225,0.432,0.0,0.568
+381,381,The New York Times,"""We're trying to get to the realness of travel, and that's the good and bad and that's beauty in the hard parts of… https://t.co/VKoTApwtxo",Sat Sep 22 10:08:24 +0000 2018,0.4215,0.155,0.212,0.633
+382,382,The New York Times,Animated map: See river levels rise across the Carolinas after Hurricane Florence https://t.co/QMpHB6ZpIW,Sat Sep 22 09:51:53 +0000 2018,0.0,0.0,0.0,1.0
+383,383,The New York Times,"The Week in Good News: Berlin Marathon, Doctor Who, Pizza for the Troops https://t.co/H2yD8oucOg",Sat Sep 22 09:34:32 +0000 2018,0.4404,0.0,0.182,0.818
+384,384,The New York Times,RT @nytopinion: Trump's tweet gives the game away — Republicans think Brett Kavanaugh's accuser is lying. https://t.co/KqZL4R6Esg,Sat Sep 22 09:32:05 +0000 2018,-0.5267,0.185,0.0,0.815
+385,385,The New York Times,48 Hours: 48 Hours With Antoni Porowski: ‘Queer Eye’ Host and Restaurateur https://t.co/Xb8LiFtE2G,Sat Sep 22 09:29:03 +0000 2018,0.0,0.0,0.0,1.0
+386,386,The New York Times,"Playlist: The Playlist: Unreleased Chris Cornell, and 12 More New Songs https://t.co/8L7E9UTrCm",Sat Sep 22 09:26:07 +0000 2018,0.0,0.0,0.0,1.0
+387,387,The New York Times,"Fish fries aren't unique to the African-American community, but they had special meaning during slavery and later o… https://t.co/fJDX75aohi",Sat Sep 22 09:09:59 +0000 2018,-0.631,0.246,0.13,0.624
+388,388,The New York Times,Trilobites: Kidney Stones Are More Beautiful Than You Might Think https://t.co/aUhMVlxNz7,Sat Sep 22 08:53:27 +0000 2018,0.6361,0.0,0.295,0.705
+389,389,The New York Times,"When Chan Marshall, the singer and songwriter best known as Cat Power, got pregnant, she considered drastically cha… https://t.co/n9yO1vr06R",Sat Sep 22 08:48:04 +0000 2018,0.6369,0.0,0.189,0.811
+390,390,The New York Times,"RT @nytimesworld: With the help of American Special Operations troops and Afghan commandos, the Taliban were wrested from a strategic area…",Sat Sep 22 08:32:03 +0000 2018,0.6597,0.0,0.231,0.769
+391,391,The New York Times,Add pinot noir to your shopping list https://t.co/wD0AZ4rAea,Sat Sep 22 08:05:11 +0000 2018,0.0,0.0,0.0,1.0
+392,392,The New York Times,"In Opinion 
+
+Zachary Wood writes, ""At the time, I was ashamed about riding a bus. But looking back, I've come to se… https://t.co/HLF57ustfZ",Sat Sep 22 07:48:45 +0000 2018,-0.2617,0.093,0.0,0.907
+393,393,The New York Times,"RT @NYTFashion: Some of the most expensive Italian-made garments are made by mostly female workers who have no minimum wage, insurance or l…",Sat Sep 22 07:32:05 +0000 2018,-0.296,0.091,0.0,0.909
+394,394,The New York Times,Several Killed as Gunmen Attack Military Parade in Southwest Iran https://t.co/w8ztD05XHb,Sat Sep 22 07:27:36 +0000 2018,-0.8225,0.458,0.0,0.542
+395,395,The New York Times,The NYT review of the Apple Watch Series 4 https://t.co/CubtfccoFn,Sat Sep 22 07:14:08 +0000 2018,0.0,0.0,0.0,1.0
+396,396,The New York Times,Books News: Would You Like Some Sausage With Your Novel? https://t.co/ZaYczrVY6q,Sat Sep 22 06:57:01 +0000 2018,0.5859,0.0,0.348,0.652
+397,397,The New York Times,"36 Hours in Tucson, Arizona https://t.co/vwFHJGStGZ",Sat Sep 22 06:49:52 +0000 2018,0.0,0.0,0.0,1.0
+398,398,The New York Times,RT @stanfordc: We have liftoff: It's a new news quiz https://t.co/sfmJB51YZ8 https://t.co/zWvH4YSLCf,Sat Sep 22 06:32:03 +0000 2018,0.0,0.0,0.0,1.0
+399,399,The New York Times,"Haley Morris-Cafiero saved more than 1,000 negative comments directed toward her and then photographed herself cost… https://t.co/SCE6ZsAWXc",Sat Sep 22 06:06:58 +0000 2018,-0.2878,0.182,0.129,0.689
+400,400,BBC News (World),More fake diploma claims for Spanish university https://t.co/WT6TFy7EAg,Thu Sep 20 14:59:07 +0000 2018,-0.5256,0.326,0.0,0.674
+401,401,BBC News (World),Russia reinstated by Wada after doping scandal suspension https://t.co/voXbYjEwPv,Thu Sep 20 14:52:45 +0000 2018,-0.4404,0.266,0.0,0.734
+402,402,BBC News (World),"RT @BBCSport: Cristiano Ronaldo can't appeal last night's red card - and things could be about to get worse for him.
+
+Full story: https://t…",Thu Sep 20 14:44:42 +0000 2018,-0.4767,0.124,0.0,0.876
+403,403,BBC News (World),"Giant pandas can tell a mate from their calls 🐼
+
+https://t.co/TtKBG4mPIg",Thu Sep 20 14:33:54 +0000 2018,0.0,0.0,0.0,1.0
+404,404,BBC News (World),Marine Le Pen ordered to undergo psychological testing https://t.co/dHPYFvQdHc,Thu Sep 20 14:17:49 +0000 2018,0.0,0.0,0.0,1.0
+405,405,BBC News (World),Five surprising reasons prisoners have been freed https://t.co/iGbzqovaNz,Thu Sep 20 14:17:39 +0000 2018,0.128,0.252,0.366,0.382
+406,406,BBC News (World),"RT @BBCPolitics: “How can you credibly cling on to the deal you struck at Chequers with your cabinet?” asks @bbclaurak 
+
+“We are continuing…",Thu Sep 20 14:07:44 +0000 2018,-0.25,0.083,0.0,0.917
+407,407,BBC News (World),RT @BBCMonitoring: Denuclearisation and fine dining at the #InterKoreanSummit https://t.co/9jKIY72kXh,Thu Sep 20 13:46:39 +0000 2018,0.2023,0.0,0.167,0.833
+408,408,BBC News (World),"RT @BBCBreaking: European Council President Donald Tusk says EU leaders agree Theresa May's Chequers plan for #Brexit ""will not work"" becau…",Thu Sep 20 13:37:15 +0000 2018,0.3612,0.0,0.111,0.889
+409,409,BBC News (World),RT @BBCNews: “The moment of truth for #Brexit negotiations will be the October European council” - says European Council President Donald T…,Thu Sep 20 13:24:22 +0000 2018,0.3182,0.0,0.103,0.897
+410,410,BBC News (World),"Book of Durrows loaned to British Library for exhibition 📖
+https://t.co/pX2zJrKxL6",Thu Sep 20 12:50:05 +0000 2018,0.0,0.0,0.0,1.0
+411,411,BBC News (World),Deqa Dahir shot dead in Mogadishu: Somali troops detained https://t.co/OTGND6xx8O,Thu Sep 20 12:17:54 +0000 2018,-0.7906,0.467,0.0,0.533
+412,412,BBC News (World),Storm Ali: Lighthouse fall warden thankful after remote island rescue https://t.co/hbPX8upTGd,Thu Sep 20 12:00:24 +0000 2018,0.7906,0.0,0.438,0.562
+413,413,BBC News (World),Hezbollah 'has precision rockets despite Israeli strikes in Syria' https://t.co/R8wa5iHgIp,Thu Sep 20 11:57:56 +0000 2018,0.2755,0.0,0.19,0.81
+414,414,BBC News (World),"North Korea's Kim wants fast denuclearisation, South's leader says https://t.co/AIuc5ePOgZ",Thu Sep 20 11:32:02 +0000 2018,0.0,0.0,0.0,1.0
+415,415,BBC News (World),France torn over video of driver slapping boy for 'disrespect' https://t.co/G4qku9MIPG,Thu Sep 20 11:23:41 +0000 2018,-0.25,0.167,0.0,0.833
+416,416,BBC News (World),3D-printed gun pioneer Cody Wilson charged with sexual assault https://t.co/BOxZ9O6c7S,Thu Sep 20 10:22:45 +0000 2018,-0.7906,0.533,0.0,0.467
+417,417,BBC News (World),'Nigeria Air' national airline plans put on hold https://t.co/fuiVoJrDZD,Thu Sep 20 10:20:09 +0000 2018,0.0,0.0,0.0,1.0
+418,418,BBC News (World),"Trump urged Spain to 'build a wall' across Sahara, says minister https://t.co/4rsYJgYmTn",Thu Sep 20 10:13:37 +0000 2018,0.0,0.0,0.0,1.0
+419,419,BBC News (World),South African Kessie Nair arrested for rant against Cyril Ramaphosa https://t.co/NB72U9IODl,Thu Sep 20 10:04:56 +0000 2018,-0.6705,0.379,0.0,0.621
+420,420,CBS News,Trump's trade war: Why the economy may soon feel the pain https://t.co/2zZL6ejzIg https://t.co/5b35UwBk2d,Sat Sep 22 02:44:30 +0000 2018,-0.802,0.396,0.0,0.604
+421,421,CBS News,Republicans on Senate panel send letter to potential Kavanaugh party attendee https://t.co/y14nzBYAlS https://t.co/ADaiqK7DLo,Sat Sep 22 02:24:30 +0000 2018,0.4019,0.0,0.184,0.816
+422,422,CBS News,"Ferry boat that capsized, killing more than 130, was dangerously overloaded https://t.co/kXTDrUgZSk https://t.co/28ZFN9EIjW",Sat Sep 22 01:45:00 +0000 2018,-0.8126,0.402,0.0,0.598
+423,423,CBS News,Puerto Rico: A year of reporting on Hurricane Maria https://t.co/G8nsjRkHsF https://t.co/Srn7fHwbw2,Sat Sep 22 01:24:53 +0000 2018,0.0,0.0,0.0,1.0
+424,424,CBS News,It was one of the deadliest natural disasters in American history and Puerto Rico is still far from out of the wood… https://t.co/EfEVyepWuV,Sat Sep 22 01:20:18 +0000 2018,-0.2732,0.133,0.092,0.775
+425,425,CBS News,"75 women gather to show support for their friend, Brett Kavanaugh https://t.co/jn8I82zBFw https://t.co/Q3d7XhVAIb",Sat Sep 22 01:05:00 +0000 2018,0.7096,0.0,0.349,0.651
+426,426,CBS News,"Less than 340,000 have flood insurance in North and South Carolina combined https://t.co/EAs9M7SGL7 https://t.co/Z3zcC25mS4",Sat Sep 22 00:44:55 +0000 2018,0.0,0.0,0.0,1.0
+427,427,CBS News,"Some flea and tick treatments increase risk of seizures in pets, FDA warns https://t.co/Om9SHWTKMb https://t.co/ncubLOsg3t",Sat Sep 22 00:25:01 +0000 2018,-0.0516,0.197,0.129,0.674
+428,428,CBS News,"Geoffrey Owens cast in new movie ""Fatale,"" opposite Michael Ealy and Hilary Swank https://t.co/P7VQy0bQ7a https://t.co/ZNntbKbiRQ",Sat Sep 22 00:04:32 +0000 2018,0.0,0.0,0.0,1.0
+429,429,CBS News,"Pres. Obama: ""I will tell you – and Michelle didn't put me up to this – stuff works better when women are involved.… https://t.co/hVD9t2dWKX",Fri Sep 21 23:45:00 +0000 2018,0.4404,0.0,0.121,0.879
+430,430,CBS News,Dam breached by Florence floodwaters at power plant in North Carolina https://t.co/0LemG1djb8 https://t.co/9HNJjMT85a,Fri Sep 21 23:24:40 +0000 2018,0.0,0.0,0.0,1.0
+431,431,CBS News,"""There's only one real check on the abuse of power and that is you,"" Obama fires up voters during speech at Pennsyl… https://t.co/dQ48FVl9IY",Fri Sep 21 23:05:25 +0000 2018,-0.6369,0.16,0.0,0.84
+432,432,CBS News,RT @CBSThisMorning: FIGHTING FIRE TORNADOES: Go behind the scenes to learn how scientists are trying to unlock the secrets of how fires spr…,Fri Sep 21 22:57:23 +0000 2018,-0.7481,0.233,0.0,0.767
+433,433,CBS News,"""How hard is it to treat people fairly? You're supposed to learn that in the sandbox."" https://t.co/6PiBPtdOFo https://t.co/ayQZgv1Pxf",Fri Sep 21 22:44:56 +0000 2018,0.3182,0.07,0.134,0.796
+434,434,CBS News,RT @CBSEveningNews: NEW: CBS News has obtained an email sent by a GOP Senate Judiciary Committee staffer to a woman who’s “been identified…,Fri Sep 21 22:41:00 +0000 2018,0.0,0.0,0.0,1.0
+435,435,CBS News,Prosecutor says his office found more possible victims of California doctor  charged with drugging and raping two w… https://t.co/lN7aw65Z5Z,Fri Sep 21 22:24:53 +0000 2018,-0.8473,0.365,0.0,0.635
+436,436,CBS News,Wisconsin shooting suspect was previously taken to a mental health hospital and barred from possessing firearms in… https://t.co/ZZSW4DYDdl,Fri Sep 21 22:04:38 +0000 2018,-0.296,0.121,0.0,0.879
+437,437,CBS News,Photo of Idaho boys folding American flag goes viral https://t.co/qd4OL90Me7 https://t.co/2XHmVP71h0,Fri Sep 21 21:44:53 +0000 2018,0.0,0.0,0.0,1.0
+438,438,CBS News,"""Pennsylvania's a great state, but let me just say Pennsylvania right now, you have no women in congress ... And I… https://t.co/Nv5juY6vEn",Fri Sep 21 21:40:54 +0000 2018,-0.0644,0.115,0.105,0.78
+439,439,CBS News,"Obama: You don't have to be a Democrat or a Republican to say that we do not target people based on how they look,… https://t.co/VmsnibAZTB",Fri Sep 21 21:36:32 +0000 2018,0.0,0.0,0.0,1.0
+440,440,CNN,Homeowners who live on the coast are sleepwalking toward climate catastrophe | By Michael Bociurkiw via @CNNOpinion… https://t.co/zs9nyK5bNK,Sat Sep 22 02:51:34 +0000 2018,-0.6597,0.216,0.0,0.784
+441,441,CNN,"To remove Helen Keller from the social studies curriculum in Texas ""also means to eliminate the single touchstone f… https://t.co/vWksZ58fvt",Sat Sep 22 02:46:04 +0000 2018,0.0,0.0,0.0,1.0
+442,442,CNN,"Former CIA Director Leon Panetta said the US has been ""in a constitutional crisis"" under Donald Trump's presidency… https://t.co/E9RC5Mh0rA",Sat Sep 22 02:45:43 +0000 2018,-0.6249,0.194,0.0,0.806
+443,443,CNN,"Most yogurts have deceptively high levels of sugar, with organic yogurts among the worst offenders, a new study war… https://t.co/rThLHKXJh9",Sat Sep 22 02:31:06 +0000 2018,-0.765,0.28,0.0,0.72
+444,444,CNN,No president has seen the number of scandals Trump has | By Michael D'Antonio via @CNNOpinion… https://t.co/RBTtUbikJQ,Sat Sep 22 02:23:06 +0000 2018,-0.6249,0.274,0.066,0.66
+445,445,CNN,"Republican Sen. Ted Cruz of Texas and Rep. Beto O'Rourke, his Democratic challenger, sparred over issues including… https://t.co/Uciy32cVdP",Sat Sep 22 02:21:00 +0000 2018,0.128,0.0,0.081,0.919
+446,446,CNN,Former President Ronald Reagan's daughter Patti Davis wrote about her own sexual assault experience to defend Chris… https://t.co/4QrbThZFHo,Sat Sep 22 02:16:39 +0000 2018,-0.5859,0.183,0.0,0.817
+447,447,CNN,"Astronomers have found an exoplanet reminiscent of the planet Vulcan from ""Star Trek,"" orbiting a star in a system… https://t.co/anGpAGT3Fd",Sat Sep 22 02:16:07 +0000 2018,0.0,0.0,0.0,1.0
+448,448,CNN,Six siblings of Republican Rep. Paul Gosar delivered a stark message in a new television advertisement: Don't vote… https://t.co/PNlpw7beq6,Sat Sep 22 02:13:16 +0000 2018,0.0,0.0,0.0,1.0
+449,449,CNN,"The lawyer for Christine Blasey Ford, the woman accusing Supreme Court nominee Brett Kavanaugh of sexual assault, r… https://t.co/fSWjh59rI3",Sat Sep 22 02:09:05 +0000 2018,-0.2263,0.219,0.143,0.637
+450,450,CNN,"Cobwebs drape everything from street signs to trees in this Greek town, each crawling with hordes of spiders. Hot w… https://t.co/RPUORPLxRh",Sat Sep 22 02:04:33 +0000 2018,0.0,0.0,0.0,1.0
+451,451,CNN,"This 94-year-old World War II vet hands out chocolate bars to strangers and people love it.
+
+He's been melting hear… https://t.co/pcpxJAK1CV",Sat Sep 22 02:01:03 +0000 2018,0.0772,0.144,0.155,0.701
+452,452,CNN,"""If I were a queen, there would be no death penalty."" Supreme Court Justice Ruth Bader Ginsburg talks about the cat… https://t.co/PLWTSwiJlI",Sat Sep 22 01:59:27 +0000 2018,0.2263,0.21,0.241,0.55
+453,453,CNN,"Entering the stretch run of the 2018 midterm elections, the ad wars are escalating https://t.co/v02FWIMifj",Sat Sep 22 01:56:48 +0000 2018,-0.5574,0.205,0.0,0.795
+454,454,CNN,"A GOP Senate nominee says the accusations against Brett Kavanaugh are ""absurd"" because the assault attempt ""never w… https://t.co/Q4K4SKdQBz",Sat Sep 22 01:51:51 +0000 2018,-0.7269,0.276,0.0,0.724
+455,455,CNN,"Last month, a CNN investigation found remnants of a US-made bomb at the scene of an airstrike in Yemen that killed… https://t.co/BD675Jpxai",Sat Sep 22 01:51:11 +0000 2018,-0.4939,0.144,0.0,0.856
+456,456,CNN,"Coal ash is likely entering the Cape Fear River in Wilmington, North Carolina, environmentalists say… https://t.co/GNb0vpS51u",Sat Sep 22 01:46:03 +0000 2018,-0.4939,0.176,0.0,0.824
+457,457,CNN,"RT @CuomoPrimeTime: “We are in danger... with a malignant narcissist and sexual predator running this country.""
+
+Michael Moore's (@MMFlint)…",Sat Sep 22 01:42:32 +0000 2018,0.0,0.0,0.0,1.0
+458,458,CNN,Rihanna has been appointed an ambassador of Barbados https://t.co/hWLgbDou6m https://t.co/CT1QV4cbrj,Sat Sep 22 01:41:03 +0000 2018,0.0,0.0,0.0,1.0
+459,459,CNN,RT @CuomoPrimeTime: Michael Moore (@MMFlint) says Republican men are “guaranteeing losing in November” through their treatment of Prof. For…,Sat Sep 22 01:38:36 +0000 2018,-0.3818,0.126,0.0,0.874
+460,460,Fox News,"Cody Wilson, man behind 3-D printed gun, arrested in Taiwan amid sex assault allegations, official says https://t.co/g9Rm828ygU",Sat Sep 22 13:47:00 +0000 2018,-0.8519,0.399,0.0,0.601
+461,461,Fox News,Ben &amp; Jerry's Founders Creating Democrat-Inspired Ice Cream Flavors to 'Take Back Congress' https://t.co/x6dIQR47Gz,Sat Sep 22 13:40:46 +0000 2018,0.296,0.0,0.145,0.855
+462,462,Fox News,"SUNDAY on @SundayFutures, @MariaBartiromo's exclusive interview with National Security Adviser @AmbJohnBolton - Tun… https://t.co/XS7OuBUFgM",Sat Sep 22 13:38:00 +0000 2018,0.4404,0.0,0.262,0.738
+463,463,Fox News,.@SteveScalise: “We’ve continued to fight for funding for the wall.” https://t.co/inmbu9ooki,Sat Sep 22 13:26:11 +0000 2018,-0.3818,0.206,0.0,0.794
+464,464,Fox News,".@SteveScalise: “There’s absolutely no place for people resorting to violence, threats of violence, anything like t… https://t.co/OIrYyAogqO",Sat Sep 22 13:24:42 +0000 2018,-0.8999,0.482,0.089,0.429
+465,465,Fox News,.@SteveScalise: “There is so many more things that we need to find out about what’s going on at the Department of J… https://t.co/lDW3FMXPnc,Sat Sep 22 13:20:11 +0000 2018,0.0,0.0,0.0,1.0
+466,466,Fox News,"Banana shipment contained nearly $18M in cocaine, authorities say https://t.co/xycVq7sKKo",Sat Sep 22 13:20:00 +0000 2018,0.0,0.0,0.0,1.0
+467,467,Fox News,Colombia honors 14 sniffer dogs at emotional retirement https://t.co/O9T3AzLwaX,Sat Sep 22 13:12:00 +0000 2018,0.5994,0.0,0.412,0.588
+468,468,Fox News,Massive $80K gold nugget discovered in Australia by retired man who's been searching area for years https://t.co/4qYWWtbV4G,Sat Sep 22 12:55:00 +0000 2018,0.0,0.0,0.0,1.0
+469,469,Fox News,"Jason Aldean pays tribute to Route 91 victims, first responders at iHeartRadio: 'We're all proud to be Vegas Strong' https://t.co/ALoYdWPcFJ",Sat Sep 22 12:45:00 +0000 2018,0.6249,0.089,0.249,0.661
+470,470,Fox News,"Women rally in support of Kavanaugh: 'We know the man, we know his heart' https://t.co/C1nHsQYCS8",Sat Sep 22 12:34:28 +0000 2018,0.4019,0.0,0.162,0.838
+471,471,Fox News,"Schumer rallies behind Rosenstein, warns Trump not to fire him https://t.co/H09EFT8svK",Sat Sep 22 12:32:23 +0000 2018,0.162,0.113,0.164,0.724
+472,472,Fox News,.@SebGorka: “This cannot continue in a Republic where we hold transparency and rule of law to be important.” https://t.co/IdPVvAkc3C,Sat Sep 22 12:29:02 +0000 2018,0.0,0.0,0.0,1.0
+473,473,Fox News,Dramatic video shows daring raccoon scaling building before leaping off https://t.co/GwHAvg3MMd,Sat Sep 22 12:22:53 +0000 2018,0.3612,0.0,0.2,0.8
+474,474,Fox News,".@AlanDersh: “[The 25th Amendment] wasn’t intended to remove a president, who you disagree with his policies.” https://t.co/0RV2oG0lKm",Sat Sep 22 12:06:57 +0000 2018,-0.3818,0.148,0.0,0.852
+475,475,Fox News,Obama Foundation deal with Chicago calls for $10 fee on 99-year lease: reports https://t.co/2bP0XIiRyR,Sat Sep 22 12:03:44 +0000 2018,0.0,0.0,0.0,1.0
+476,476,Fox News,SUNDAY: Don't miss an exclusive interview with @LindseyGrahamSC on @FoxNewsSunday. Check your local listings and tu… https://t.co/fgV0MMfWm1,Sat Sep 22 12:02:01 +0000 2018,0.0191,0.077,0.081,0.842
+477,477,Fox News,"Keith Ellison says his accuser fabricated domestic violence abuse story, can't be sure others won't 'cook up' alleg… https://t.co/hQQXWdW9Yr",Sat Sep 22 12:00:02 +0000 2018,-0.8824,0.391,0.0,0.609
+478,478,Fox News,.@TomFitton: “I think the president should shut down the Mueller investigation.” https://t.co/mO0ineNfGa,Sat Sep 22 11:57:00 +0000 2018,0.0,0.0,0.0,1.0
+479,479,Fox News,.@TomFitton: “It shows you the Mueller investigation was based on little more than personal animosity.” https://t.co/OK0ZJwwarS,Sat Sep 22 11:50:11 +0000 2018,0.0,0.0,0.0,1.0
+480,480,The New York Times,The NYT review of the iPhone XS and XS Max https://t.co/d8UspVuKO1,Sat Sep 22 05:49:26 +0000 2018,0.0,0.0,0.0,1.0
+481,481,The New York Times,RT @nytopinion: Ted Cruz versus Beto O’Rourke! In verbal combat! @GailCollins breaks down the first big debate of the election season. http…,Sat Sep 22 05:32:04 +0000 2018,-0.4559,0.124,0.0,0.876
+482,482,The New York Times,FEMA Administrator Must Reimburse U.S. for Misuse of Agency Vehicles https://t.co/2TQ5aHkVYX,Sat Sep 22 05:03:12 +0000 2018,0.0,0.0,0.0,1.0
+483,483,The New York Times,"PayPal will stop processing payments for Alex Jones's conspiracy website Infowars, a financial blow that could dama… https://t.co/nfLLaemBiJ",Sat Sep 22 04:59:59 +0000 2018,-0.6808,0.272,0.0,0.728
+484,484,The New York Times,"Packing for a trip is tough, but traveling as a couple creates unique challenges. Here's how you and your partner c… https://t.co/3DBUh79xdY",Sat Sep 22 04:43:03 +0000 2018,0.431,0.056,0.183,0.761
+485,485,The New York Times,RT @NYTNational: Christine Blasey Ford seems adamant about exerting control over the situation — perhaps to avoid the kind of public smear…,Sat Sep 22 04:22:01 +0000 2018,-0.296,0.099,0.0,0.901
+486,486,The New York Times,"Danish soldiers, scientists and 2 very sturdy dogs are the only residents at this outpost in Greenland… https://t.co/lLDzeyDXyI",Sat Sep 22 04:02:06 +0000 2018,0.0,0.0,0.0,1.0
+487,487,The New York Times,"The cases — one criminal, the other civil — will be decided in 2 Manhattan courtrooms, and include allegations rang… https://t.co/5VsLtvIR4R",Sat Sep 22 03:47:04 +0000 2018,-0.5267,0.167,0.0,0.833
+488,488,The New York Times,letter: An Evangelical’s Plea: Oppose Kavanaugh https://t.co/E8Wo5fYLKG,Sat Sep 22 03:40:27 +0000 2018,0.0,0.0,0.0,1.0
+489,489,The New York Times,"When officers arrived at the house in Queens, they found 3 infants and 2 adults had been stabbed by a worker who th… https://t.co/eAgVwxVXMW",Sat Sep 22 03:30:08 +0000 2018,-0.4404,0.127,0.0,0.873
+490,490,The New York Times,"RT @npfandos: WH/GOP distanced themselves from Whelan’s theory. 
+
+But it bears resemblance to a defense strategy under discussion by WH adv…",Sat Sep 22 03:17:02 +0000 2018,0.1901,0.0,0.084,0.916
+491,491,The New York Times,"Ted Cruz and Beto O'Rourke clashed in their first Texas Senate debate over who was “out of step” on immigration, gu… https://t.co/yYyvaTg7V4",Sat Sep 22 03:02:06 +0000 2018,0.0,0.0,0.0,1.0
+492,492,The New York Times,Elon Musk introduced his first customer for a voyage around the moon aboard a SpaceX rocket. The customer is from w… https://t.co/fUMyAI7ev3,Sat Sep 22 02:47:03 +0000 2018,0.0258,0.0,0.055,0.945
+493,493,The New York Times,"Carcinogens like arsenic, boron, lead and mercury are found in coal ash, which spilled into a North Carolina river… https://t.co/2zHkoJXZkp",Sat Sep 22 02:32:06 +0000 2018,0.3612,0.0,0.122,0.878
+494,494,The New York Times,Japan's Hayabusa2 spacecraft dropped 2 small rovers on the Ryugu asteroid. See some of the latest images it has sen… https://t.co/uHgzMJKifP,Sat Sep 22 02:17:06 +0000 2018,0.0,0.0,0.0,1.0
+495,495,The New York Times,RT @SherylNYT: NEW: Talks between Blasey Ford and Senate Republicans appear to have broken down. Grassley set a committee vote on Kavanaugh…,Sat Sep 22 01:57:31 +0000 2018,-0.4767,0.134,0.0,0.866
+496,496,The New York Times,"“Your memory snaps photos of the details that will haunt you forever, that will change your life and live under you… https://t.co/vpxxssxNfI",Sat Sep 22 01:50:06 +0000 2018,-0.4019,0.114,0.0,0.886
+497,497,The New York Times,"The Met and the Frick are considering playing a mutually beneficial game of musical museums, with the Frick Collect… https://t.co/ZPKHUaC7iV",Sat Sep 22 01:47:03 +0000 2018,0.5719,0.0,0.217,0.783
+498,498,The New York Times,Coast Guard helicopters joined the search-and-rescue operations over the Carolinas after Hurricane Florence. A Time… https://t.co/7kDFUaW2r2,Sat Sep 22 01:32:05 +0000 2018,0.0,0.0,0.0,1.0
+499,499,The New York Times,RT @mmcintire: NEW: Oligarch who funded “NRA spy” Maria Butina has ties to Russian security services ⁦@nytimes⁩  https://t.co/2WpaE6l2HB,Sat Sep 22 01:17:02 +0000 2018,0.34,0.0,0.124,0.876
